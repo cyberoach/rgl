@@ -1,7 +1,7 @@
 {
 "Chiquitano":[
   {
-    "id": 1,
+    "id": 0,
     "label": "Chiquitano",
     "qtd": 2,
     "Glottocode": "chiq1253",
@@ -19,7 +19,7 @@
     "state": 0
   },
   {
-    "id": "1-1",
+    "id": 1,
     "label": "Lomeriano-Ignaciano Chiquitano",
     "qtd": 1,
     "Glottocode": "chiq1248",
@@ -37,7 +37,7 @@
     "state": 0
   },
   {
-    "id": "1-1-2001",
+    "id": 2,
     "label": "Concepción Chiquitano",
     "qtd": 0,
     "Glottocode": "conc1244",
@@ -55,7 +55,7 @@
     "state": 0
   },
   {
-    "id": "1-1-2002",
+    "id": 3,
     "label": "Jesuit Chiquitano",
     "qtd": 0,
     "Glottocode": "jesu1240",
@@ -73,7 +73,7 @@
     "state": 0
   },
   {
-    "id": "1-1-2003",
+    "id": 4,
     "label": "San Ignacio de Velazco Chiquitano",
     "qtd": 0,
     "Glottocode": "sani1274",
@@ -91,7 +91,7 @@
     "state": 0
   },
   {
-    "id": "1-1-2004",
+    "id": 5,
     "label": "San Javier Chiquitano",
     "qtd": 0,
     "Glottocode": "sanj1279",
@@ -109,7 +109,7 @@
     "state": 0
   },
   {
-    "id": "1-1-2005",
+    "id": 6,
     "label": "Santiago Chiquitano",
     "qtd": 0,
     "Glottocode": "sant1429",
@@ -127,7 +127,7 @@
     "state": 0
   },
   {
-    "id": "1-2",
+    "id": 7,
     "label": "Migueleño Chiquitano",
     "qtd": 1,
     "Glottocode": "sanm1288",
