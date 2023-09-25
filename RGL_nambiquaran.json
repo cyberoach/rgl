@@ -1,7 +1,7 @@
 {
 "Nambiquaran":[
   {
-    "id": 1,
+    "id": 0,
     "label": "Nambiquaran",
     "qtd": 6,
     "glottocode": "namb1299",
@@ -20,7 +20,7 @@
     "txt_intro": null
   },
   {
-    "id": "1-1",
+    "id": 1,
     "label": "Nambikwara Complex",
     "qtd": 5,
     "glottocode": "namb1300",
@@ -39,7 +39,7 @@
     "txt_intro": null
   },
   {
-    "id": "1-1-2001",
+    "id": 2,
     "label": "Northern Nambiquaran",
     "qtd": 4,
     "glottocode": "nort3153",
@@ -58,7 +58,7 @@
     "txt_intro": null
   },
   {
-    "id": "1-1-1-1",
+    "id": 3,
     "label": "Mamaindé",
     "qtd": 1,
     "glottocode": "mama1278",
@@ -77,7 +77,7 @@
     "txt_intro": null
   },
   {
-    "id": "1-1-1-2",
+    "id": 4,
     "label": "Roosevelt",
     "qtd": 3,
     "glottocode": "roos1235",
@@ -96,7 +96,7 @@
     "txt_intro": null
   },
   {
-    "id": "1-1-1-2-1",
+    "id": 5,
     "label": "Lakondê",
     "qtd": 1,
     "glottocode": "lako1248",
@@ -115,7 +115,7 @@
     "txt_intro": null
   },
   {
-    "id": "1-1-1-2-2",
+    "id": 6,
     "label": "Latundê",
     "qtd": 1,
     "glottocode": "latu1238",
@@ -134,7 +134,7 @@
     "txt_intro": null
   },
   {
-    "id": "1-1-1-2-3",
+    "id": 7,
     "label": "Tawandê",
     "qtd": 1,
     "glottocode": "tawa1278",
@@ -153,7 +153,7 @@
     "txt_intro": null
   },
   {
-    "id": "1-1-2002",
+    "id": 8,
     "label": "Southern Nambikuára",
     "qtd": 1,
     "glottocode": "sout2994",
@@ -172,7 +172,7 @@
     "txt_intro": null
   },
   {
-    "id": "1-1-2-1",
+    "id": 9,
     "label": "Alatesu",
     "qtd": 0,
     "glottocode": "alat1246",
@@ -191,7 +191,7 @@
     "txt_intro": null
   },
   {
-    "id": "1-1-2-2",
+    "id": 10,
     "label": "Galera",
     "qtd": 0,
     "glottocode": "gale1260",
@@ -210,7 +210,7 @@
     "txt_intro": null
   },
   {
-    "id": "1-1-2-3",
+    "id": 11,
     "label": "Hahaintesu",
     "qtd": 0,
     "glottocode": "haha1244",
@@ -229,7 +229,7 @@
     "txt_intro": null
   },
   {
-    "id": "1-1-2-4",
+    "id": 12,
     "label": "Halotesu",
     "qtd": 0,
     "glottocode": "halo1239",
@@ -248,7 +248,7 @@
     "txt_intro": null
   },
   {
-    "id": "1-1-2-5",
+    "id": 13,
     "label": "Khithaulhu",
     "qtd": 0,
     "glottocode": "khit1238",
@@ -267,7 +267,7 @@
     "txt_intro": null
   },
   {
-    "id": "1-1-2-6",
+    "id": 14,
     "label": "Manduka",
     "qtd": 0,
     "glottocode": "mand1447",
@@ -286,7 +286,7 @@
     "txt_intro": null
   },
   {
-    "id": "1-1-2-7",
+    "id": 15,
     "label": "Sarare",
     "qtd": 0,
     "glottocode": "sara1330",
@@ -305,7 +305,7 @@
     "txt_intro": null
   },
   {
-    "id": "1-1-2-8",
+    "id": 16,
     "label": "Saxwentesu",
     "qtd": 0,
     "glottocode": "saxw1243",
@@ -324,7 +324,7 @@
     "txt_intro": null
   },
   {
-    "id": "1-1-2-9",
+    "id": 17,
     "label": "Waikisu",
     "qtd": 0,
     "glottocode": "waik1245",
@@ -343,7 +343,7 @@
     "txt_intro": null
   },
   {
-    "id": "1-1-2-10",
+    "id": 18,
     "label": "Wakalitesu",
     "qtd": 0,
     "glottocode": "waka1281",
@@ -362,7 +362,7 @@
     "txt_intro": null
   },
   {
-    "id": "1-1-2-11",
+    "id": 19,
     "label": "Wasusu",
     "qtd": 0,
     "glottocode": "wasu1258",
@@ -381,7 +381,7 @@
     "txt_intro": null
   },
   {
-    "id": "1-2",
+    "id": 20,
     "label": "Sabanê",
     "qtd": 1,
     "glottocode": "saba1268",
