@@ -1,0 +1,61 @@
+{
+"Puri":[
+  {
+    "id": 0,
+    "label": "Puri-Coroado",
+    "qtd": 2,
+    "Glottocode": "puri1261",
+    "Status": "",
+    "NOME": "Puri – Coroado",
+    "LATITUDE": "",
+    "LONGITUDE": "",
+    "Estados": "",
+    "Usuários": "",
+    "Mídias": "",
+    "Vitalidade": "",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "state": 0,
+    "txt_intro": null
+  },
+  {
+    "id": 1,
+    "label": "Coroado-Puri",
+    "qtd": 1,
+    "Glottocode": "coro1249",
+    "Status": "extinta",
+    "NOME": "Coroado-Puri",
+    "LATITUDE": "-20.264.033",
+    "LONGITUDE": "-43.612.003",
+    "Estados": "Minas Gerais",
+    "Usuários": "",
+    "Mídias": "",
+    "Vitalidade": "Sem uso",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "state": 0,
+    "txt_intro": null
+  },
+  {
+    "id": 2,
+    "label": "Puri",
+    "qtd": 1,
+    "Glottocode": "puri1262",
+    "Status": "extinta",
+    "NOME": "Puri",
+    "LATITUDE": "-22.175.627",
+    "LONGITUDE": "-44.711.336",
+    "Estados": "Espírito Santo; Minas Gerais",
+    "Usuários": 0,
+    "Mídias": "",
+    "Vitalidade": "Sem uso",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "state": 0,
+    "txt_intro": null
+  }
+]
+}
