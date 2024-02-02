@@ -756,6 +756,27 @@
     "STATE": "",
     "TXT_INTRO": ""
   },
+    "ID": 350,
+    "LABEL": "Western Bolivian Guaraní",
+    "QTD_FAMILIAS": 1,
+    "QTD_LINGUAS": 0,
+    "QTD_DIALETOS": 0,
+    "STATUS": "língua",
+    "NOME": "Guarani boliviano ocidental",
+    "LATITUDE": "",
+    "LONGITUDE": "",
+    "GLOTTOLOG": "west2640",
+    "ESTADOS": "BOLÍVIA",
+    "USUARIO": "",
+    "MIDIA": "",
+    "VITALIDADE": "",
+    "X": "",
+    "Y": "",
+    "Z": "",
+    "STATE": "",
+    "TXT_INTRO": ""
+  },
+  
   {
     "ID": 36,
     "LABEL": "Xetá",
