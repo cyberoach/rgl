@@ -757,17 +757,17 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 350,
+    "ID": 36,
     "LABEL": "Western Bolivian Guaraní",
-    "QTD_FAMILIAS": 1,
+    "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
     "QTD_DIALETOS": 0,
     "STATUS": "língua",
     "NOME": "Guarani boliviano ocidental",
     "LATITUDE": "",
     "LONGITUDE": "",
-    "GLOTTOLOG": "west2640",
-    "ESTADOS": "BOLÍVIA",
+    "GLOTTOLOG": "",
+    "ESTADOS": "",
     "USUARIO": "",
     "MIDIA": "",
     "VITALIDADE": "",
@@ -778,7 +778,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 36,
+    "ID": 37,
     "LABEL": "Xetá",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -799,7 +799,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 37,
+    "ID": 38,
     "LABEL": "Tupi-Guarani Subgroup II",
     "QTD_FAMILIAS": 5,
     "QTD_LINGUAS": 0,
@@ -820,7 +820,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 38,
+    "ID": 39,
     "LABEL": "Guarayu",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -841,7 +841,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 39,
+    "ID": 40,
     "LABEL": "Warazu-Sirionoid",
     "QTD_FAMILIAS": 4,
     "QTD_LINGUAS": 0,
@@ -862,7 +862,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 40,
+    "ID": 41,
     "LABEL": "Sirionoid",
     "QTD_FAMILIAS": 3,
     "QTD_LINGUAS": 0,
@@ -883,7 +883,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 41,
+    "ID": 42,
     "LABEL": "Jorá",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -904,7 +904,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 42,
+    "ID": 43,
     "LABEL": "Sirionó",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -925,7 +925,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 43,
+    "ID": 44,
     "LABEL": "Yuqui",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -946,7 +946,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 44,
+    "ID": 45,
     "LABEL": "Warázu",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -967,7 +967,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 45,
+    "ID": 46,
     "LABEL": "Tupi-Guarani Subgroup III",
     "QTD_FAMILIAS": 5,
     "QTD_LINGUAS": 0,
@@ -988,7 +988,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 46,
+    "ID": 47,
     "LABEL": "Lingua Geral Paulista",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1009,7 +1009,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 47,
+    "ID": 48,
     "LABEL": "Nhengatu",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1030,7 +1030,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 48,
+    "ID": 49,
     "LABEL": "Omagua-Kokama",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -1051,7 +1051,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 49,
+    "ID": 50,
     "LABEL": "Cocama-Cocamilla",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1072,7 +1072,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 50,
+    "ID": 51,
     "LABEL": "Cocama",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1093,7 +1093,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 51,
+    "ID": 52,
     "LABEL": "Cocamilla",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1114,7 +1114,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 52,
+    "ID": 53,
     "LABEL": "Omagua",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1135,7 +1135,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 53,
+    "ID": 54,
     "LABEL": "Old Omagua",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1156,7 +1156,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 54,
+    "ID": 55,
     "LABEL": "San Joaquin de Omaguas",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1177,7 +1177,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 55,
+    "ID": 56,
     "LABEL": "Tupinambá",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1198,7 +1198,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 56,
+    "ID": 57,
     "LABEL": "Amoipira",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1219,7 +1219,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 57,
+    "ID": 58,
     "LABEL": "Kaeté",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1240,7 +1240,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 58,
+    "ID": 59,
     "LABEL": "Potiguára",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1261,7 +1261,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 59,
+    "ID": 60,
     "LABEL": "Tabaiara-Tobajara",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1282,7 +1282,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 60,
+    "ID": 61,
     "LABEL": "Temiminó",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1303,7 +1303,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 61,
+    "ID": 62,
     "LABEL": "Tupina",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1324,7 +1324,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 62,
+    "ID": 63,
     "LABEL": "Tupinakin-Tupi-Tabajara Angra dos Reis-Cananéia",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1345,7 +1345,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 63,
+    "ID": 64,
     "LABEL": "Tupinambá São Francisco-Camamu",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1366,7 +1366,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 64,
+    "ID": 65,
     "LABEL": "Tupinambá-Tamoio Kap São Tomé-Angra dos Reis",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1387,7 +1387,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 65,
+    "ID": 66,
     "LABEL": "Tupinambá Tocantins-Paranaiba",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1408,7 +1408,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 66,
+    "ID": 67,
     "LABEL": "Tupinikin",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1429,7 +1429,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 67,
+    "ID": 68,
     "LABEL": "Tupi-Guarani Subgroup IV",
     "QTD_FAMILIAS": 6,
     "QTD_LINGUAS": 0,
@@ -1450,7 +1450,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 68,
+    "ID": 69,
     "LABEL": "Tapirapé",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1471,7 +1471,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 69,
+    "ID": 70,
     "LABEL": "Tupi-Guarani Subgroup IV.A",
     "QTD_FAMILIAS": 3,
     "QTD_LINGUAS": 0,
@@ -1492,7 +1492,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 70,
+    "ID": 71,
     "LABEL": "Parakanã",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1513,7 +1513,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 71,
+    "ID": 72,
     "LABEL": "Suruí Do Pará",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1534,7 +1534,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 72,
+    "ID": 73,
     "LABEL": "Tocantins Asurini",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1555,7 +1555,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 73,
+    "ID": 74,
     "LABEL": "Tupi-Guarani Subgroup IV.B",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -1576,7 +1576,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 74,
+    "ID": 75,
     "LABEL": "Tenetehara",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1597,7 +1597,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 75,
+    "ID": 76,
     "LABEL": "Guajajára",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1618,7 +1618,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 76,
+    "ID": 77,
     "LABEL": "Guajajára of Mearim",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1639,7 +1639,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 77,
+    "ID": 78,
     "LABEL": "Guajajára of Pindare",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1660,7 +1660,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 78,
+    "ID": 79,
     "LABEL": "Guajajára of Zutiua",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1681,7 +1681,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 79,
+    "ID": 80,
     "LABEL": "Tembe",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1702,7 +1702,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 80,
+    "ID": 81,
     "LABEL": "Tembe of Capim",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1723,7 +1723,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 81,
+    "ID": 82,
     "LABEL": "Tembe of Guama",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1744,7 +1744,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 82,
+    "ID": 83,
     "LABEL": "Tembe of Gurupi",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1765,7 +1765,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 83,
+    "ID": 84,
     "LABEL": "Turiwára",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1786,7 +1786,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 84,
+    "ID": 85,
     "LABEL": "Tupi-Guarani Subgroup V",
     "QTD_FAMILIAS": 4,
     "QTD_LINGUAS": 0,
@@ -1807,7 +1807,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 85,
+    "ID": 86,
     "LABEL": "Arawetic",
     "QTD_FAMILIAS": 3,
     "QTD_LINGUAS": 0,
@@ -1828,7 +1828,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 86,
+    "ID": 87,
     "LABEL": "Amanayé",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1849,7 +1849,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 87,
+    "ID": 88,
     "LABEL": "Anambé",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1870,7 +1870,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 88,
+    "ID": 89,
     "LABEL": "Araweté",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1891,7 +1891,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 89,
+    "ID": 90,
     "LABEL": "Xingú Asuriní",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1912,7 +1912,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 90,
+    "ID": 91,
     "LABEL": "Tupi-Guarani Subgroup VI",
     "QTD_FAMILIAS": 9,
     "QTD_LINGUAS": 0,
@@ -1933,7 +1933,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 91,
+    "ID": 92,
     "LABEL": "Kawahiwa Meridionais",
     "QTD_FAMILIAS": 5,
     "QTD_LINGUAS": 0,
@@ -1954,7 +1954,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 92,
+    "ID": 93,
     "LABEL": "Amondava-Uru-Eu-Wau-Wau",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -1975,7 +1975,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 93,
+    "ID": 94,
     "LABEL": "Amundava",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1996,7 +1996,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 94,
+    "ID": 95,
     "LABEL": "Uru-Eu-Wau-Wau",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2017,7 +2017,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 95,
+    "ID": 96,
     "LABEL": "Apiaká",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2038,7 +2038,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 96,
+    "ID": 97,
     "LABEL": "Karipúna",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2059,7 +2059,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 97,
+    "ID": 98,
     "LABEL": "Kayabí",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2080,7 +2080,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 98,
+    "ID": 99,
     "LABEL": "Kawahiwa Setentrionais",
     "QTD_FAMILIAS": 4,
     "QTD_LINGUAS": 0,
@@ -2101,7 +2101,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 99,
+    "ID": 100,
     "LABEL": "Júma",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2122,7 +2122,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 100,
+    "ID": 101,
     "LABEL": "Paranawát",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2143,7 +2143,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 101,
+    "ID": 102,
     "LABEL": "Tenharim-Parintintin-Diahoi",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2164,7 +2164,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 102,
+    "ID": 103,
     "LABEL": "Diahói",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -2185,7 +2185,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 103,
+    "ID": 104,
     "LABEL": "Parintintín",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -2206,7 +2206,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 104,
+    "ID": 105,
     "LABEL": "Tenharim",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -2227,7 +2227,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 105,
+    "ID": 106,
     "LABEL": "Wiraféd",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2248,7 +2248,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 106,
+    "ID": 107,
     "LABEL": "Tupi-Guarani Subgroup VIII",
     "QTD_FAMILIAS": 8,
     "QTD_LINGUAS": 0,
@@ -2269,7 +2269,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 107,
+    "ID": 108,
     "LABEL": "Guaja-Kaapor-Ava",
     "QTD_FAMILIAS": 5,
     "QTD_LINGUAS": 0,
@@ -2290,7 +2290,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 108,
+    "ID": 109,
     "LABEL": "Avá-Canoeiro",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2311,7 +2311,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 109,
+    "ID": 110,
     "LABEL": "Guaja-Aure-Aura",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -2332,7 +2332,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 110,
+    "ID": 111,
     "LABEL": "Aurê y Aurá",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2353,7 +2353,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 111,
+    "ID": 112,
     "LABEL": "Guajá",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2374,7 +2374,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 112,
+    "ID": 113,
     "LABEL": "Anambe of Ehrenreich",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -2395,7 +2395,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 113,
+    "ID": 114,
     "LABEL": "Awá (Guajá)",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -2416,7 +2416,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 114,
+    "ID": 115,
     "LABEL": "Unclassified Guaja-Kaapor-Ava",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2437,7 +2437,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 115,
+    "ID": 116,
     "LABEL": "Tacunyape",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2458,7 +2458,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 116,
+    "ID": 117,
     "LABEL": "Urubú-Kaapor",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2479,7 +2479,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 117,
+    "ID": 118,
     "LABEL": "Wayampi-Zoe-Emerillon",
     "QTD_FAMILIAS": 3,
     "QTD_LINGUAS": 0,
@@ -2500,7 +2500,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 118,
+    "ID": 119,
     "LABEL": "Wayampi",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2521,7 +2521,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 119,
+    "ID": 120,
     "LABEL": "Oiyapoque",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -2542,7 +2542,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 120,
+    "ID": 121,
     "LABEL": "Wajapuku",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -2563,7 +2563,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 121,
+    "ID": 122,
     "LABEL": "Zoe-Emerillon",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -2584,7 +2584,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 122,
+    "ID": 123,
     "LABEL": "Teko",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2605,7 +2605,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 123,
+    "ID": 124,
     "LABEL": "Zo´é",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2626,7 +2626,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 124,
+    "ID": 125,
     "LABEL": "Sateré-Mawé",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2647,7 +2647,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 125,
+    "ID": 126,
     "LABEL": "Monde",
     "QTD_FAMILIAS": 5,
     "QTD_LINGUAS": 0,
@@ -2668,7 +2668,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 126,
+    "ID": 127,
     "LABEL": "Gavianic",
     "QTD_FAMILIAS": 4,
     "QTD_LINGUAS": 0,
@@ -2689,7 +2689,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 127,
+    "ID": 128,
     "LABEL": "Nuclear Gavianic",
     "QTD_FAMILIAS": 3,
     "QTD_LINGUAS": 0,
@@ -2710,7 +2710,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 128,
+    "ID": 129,
     "LABEL": "Aruá (Rondonia State)",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2731,7 +2731,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 129,
+    "ID": 130,
     "LABEL": "Aruáshi",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -2752,7 +2752,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 130,
+    "ID": 131,
     "LABEL": "Cinta Larga",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2773,7 +2773,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 131,
+    "ID": 132,
     "LABEL": "Gavião Do Jiparaná",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2794,7 +2794,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 132,
+    "ID": 133,
     "LABEL": "Gavião",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -2815,7 +2815,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 133,
+    "ID": 134,
     "LABEL": "Zoró",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -2836,7 +2836,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 134,
+    "ID": 135,
     "LABEL": "Salamãi",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2857,7 +2857,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 135,
+    "ID": 136,
     "LABEL": "Suruí",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2878,7 +2878,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 136,
+    "ID": 137,
     "LABEL": "Mundurukuic",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -2899,7 +2899,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 137,
+    "ID": 138,
     "LABEL": "Kuruáya",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2920,7 +2920,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 138,
+    "ID": 139,
     "LABEL": "Mundurukú",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2941,7 +2941,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 139,
+    "ID": 140,
     "LABEL": "Purubora-Ramarama",
     "QTD_FAMILIAS": 3,
     "QTD_LINGUAS": 0,
@@ -2962,7 +2962,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 140,
+    "ID": 141,
     "LABEL": "Puruborá",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2983,7 +2983,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 141,
+    "ID": 142,
     "LABEL": "Ramarama",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -3004,7 +3004,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 142,
+    "ID": 143,
     "LABEL": "Karo (Brazil)",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3025,7 +3025,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 143,
+    "ID": 144,
     "LABEL": "Karo",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -3046,7 +3046,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 144,
+    "ID": 145,
     "LABEL": "Urumi",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3067,7 +3067,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 145,
+    "ID": 146,
     "LABEL": "Tuparic",
     "QTD_FAMILIAS": 5,
     "QTD_LINGUAS": 0,
@@ -3088,7 +3088,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 146,
+    "ID": 147,
     "LABEL": "Makuráp",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3109,7 +3109,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 147,
+    "ID": 148,
     "LABEL": "Nuclear Tuparic",
     "QTD_FAMILIAS": 4,
     "QTD_LINGUAS": 0,
@@ -3130,7 +3130,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 148,
+    "ID": 149,
     "LABEL": "Corumbiara",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -3151,7 +3151,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 149,
+    "ID": 150,
     "LABEL": "Akuntsu",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3172,7 +3172,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 150,
+    "ID": 151,
     "LABEL": "Mekens",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3193,7 +3193,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 151,
+    "ID": 152,
     "LABEL": "Guaratira",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -3214,7 +3214,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 152,
+    "ID": 153,
     "LABEL": "Sakurabiat",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -3235,7 +3235,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 153,
+    "ID": 154,
     "LABEL": "Siokweriat",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -3256,7 +3256,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 154,
+    "ID": 155,
     "LABEL": "Wayoro-Tupari",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -3277,7 +3277,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 155,
+    "ID": 156,
     "LABEL": "Tuparí",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3298,7 +3298,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 156,
+    "ID": 157,
     "LABEL": "Wayoró",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3319,7 +3319,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 157,
+    "ID": 158,
     "LABEL": "Kupndiiriat",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -3340,7 +3340,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 158,
+    "ID": 159,
     "LABEL": "Ngwayoroiat",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -3361,7 +3361,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 159,
+    "ID": 160,
     "LABEL": "Yuruna",
     "QTD_FAMILIAS": 3,
     "QTD_LINGUAS": 0,
@@ -3382,7 +3382,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 160,
+    "ID": 161,
     "LABEL": "Jurúna",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3403,7 +3403,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 161,
+    "ID": 162,
     "LABEL": "Unclassified Yuruna",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3424,7 +3424,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 162,
+    "ID": 163,
     "LABEL": "Maritsauá",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3445,7 +3445,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 163,
+    "ID": 164,
     "LABEL": "Arupai",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -3466,7 +3466,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 164,
+    "ID": 165,
     "LABEL": "Xipaya",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
