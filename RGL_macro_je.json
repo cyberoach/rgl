@@ -3,8 +3,8 @@
   {
     "ID": 0,
     "LABEL": "Nuclear-Macro-Je",
-    "QTD_FAMILIAS": 29,
-    "QTD_LINGUAS": 0,
+    "QTD_FAMILIAS": 0,
+    "QTD_LINGUAS": 29,
     "QTD_DIALETOS": 0,
     "STATUS": "tronco",
     "NOME": "Nuclear-Macro-Je",
@@ -24,8 +24,8 @@
   {
     "ID": 1,
     "LABEL": "Jabuti",
-    "QTD_FAMILIAS": 2,
-    "QTD_LINGUAS": 0,
+    "QTD_FAMILIAS": 0,
+    "QTD_LINGUAS": 2,
     "QTD_DIALETOS": 0,
     "STATUS": "",
     "NOME": "Jabuti",
@@ -35,7 +35,7 @@
     "ESTADOS": "",
     "USUARIO": "",
     "MIDIA": "",
-    "VITALIDADE": "",
+    "VITALIDADE": "extinta",
     "X": 0,
     "Y": 0,
     "Z": 0,
@@ -56,7 +56,7 @@
     "ESTADOS": "",
     "USUARIO": "",
     "MIDIA": "",
-    "VITALIDADE": "Sem uso",
+    "VITALIDADE": "sem uso",
     "X": 0,
     "Y": 0,
     "Z": 0,
@@ -77,7 +77,7 @@
     "ESTADOS": "",
     "USUARIO": "",
     "MIDIA": "",
-    "VITALIDADE": "Sem uso",
+    "VITALIDADE": "sem uso",
     "X": 0,
     "Y": 0,
     "Z": 0,
@@ -87,18 +87,18 @@
   {
     "ID": 4,
     "LABEL": "Je",
-    "QTD_FAMILIAS": 17,
-    "QTD_LINGUAS": 0,
+    "QTD_FAMILIAS": 0,
+    "QTD_LINGUAS": 17,
     "QTD_DIALETOS": 0,
     "STATUS": "família",
-    "NOME": "Je",
+    "NOME": "Eu",
     "LATITUDE": 0,
     "LONGITUDE": 0,
     "GLOTTOLOG": "",
     "ESTADOS": "",
     "USUARIO": "",
     "MIDIA": "",
-    "VITALIDADE": "extinta",
+    "VITALIDADE": "sem uso",
     "X": 0,
     "Y": 0,
     "Z": 0,
@@ -129,8 +129,8 @@
   {
     "ID": 6,
     "LABEL": "Je Central",
-    "QTD_FAMILIAS": 4,
-    "QTD_LINGUAS": 0,
+    "QTD_FAMILIAS": 0,
+    "QTD_LINGUAS": 4,
     "QTD_DIALETOS": 0,
     "STATUS": "família",
     "NOME": "Je Central",
@@ -234,8 +234,8 @@
   {
     "ID": 11,
     "LABEL": "Je Meridional",
-    "QTD_FAMILIAS": 5,
-    "QTD_LINGUAS": 0,
+    "QTD_FAMILIAS": 0,
+    "QTD_LINGUAS": 5,
     "QTD_DIALETOS": 0,
     "STATUS": "família",
     "NOME": "Je Meridional",
@@ -255,8 +255,8 @@
   {
     "ID": 12,
     "LABEL": "Ingain-Kimda",
-    "QTD_FAMILIAS": 2,
-    "QTD_LINGUAS": 0,
+    "QTD_FAMILIAS": 0,
+    "QTD_LINGUAS": 2,
     "QTD_DIALETOS": 0,
     "STATUS": "família",
     "NOME": "Ingain Kimda",
@@ -318,8 +318,8 @@
   {
     "ID": 15,
     "LABEL": "Kaingang-Xokleng",
-    "QTD_FAMILIAS": 3,
-    "QTD_LINGUAS": 0,
+    "QTD_FAMILIAS": 0,
+    "QTD_LINGUAS": 3,
     "QTD_DIALETOS": 0,
     "STATUS": "família",
     "NOME": "Kaingang-Xokleng",
@@ -339,8 +339,8 @@
   {
     "ID": 16,
     "LABEL": "Kaingangic",
-    "QTD_FAMILIAS": 2,
-    "QTD_LINGUAS": 0,
+    "QTD_FAMILIAS": 0,
+    "QTD_LINGUAS": 2,
     "QTD_DIALETOS": 0,
     "STATUS": "família",
     "NOME": "Kaingangic",
@@ -380,11 +380,95 @@
   },
   {
     "ID": 18,
-    "LABEL": "São Paulo Kaingáng",
+    "LABEL": "Central Kaingang",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
     "QTD_DIALETOS": 0,
     "STATUS": "dialeto",
+    "NOME": "Central Kaingang",
+    "LATITUDE": 0,
+    "LONGITUDE": 0,
+    "GLOTTOLOG": "cent2143",
+    "ESTADOS": "",
+    "USUARIO": "",
+    "MIDIA": "",
+    "VITALIDADE": "",
+    "X": 0,
+    "Y": 0,
+    "Z": 0,
+    "STATE": 0,
+    "TXT_INTRO": ""
+  },
+  {
+    "ID": 19,
+    "LABEL": "Paraná Kaingang",
+    "QTD_FAMILIAS": 0,
+    "QTD_LINGUAS": 0,
+    "QTD_DIALETOS": 0,
+    "STATUS": "dialeto",
+    "NOME": "Paraná Kaingang",
+    "LATITUDE": 0,
+    "LONGITUDE": 0,
+    "GLOTTOLOG": "para1314",
+    "ESTADOS": "",
+    "USUARIO": "",
+    "MIDIA": "",
+    "VITALIDADE": "",
+    "X": 0,
+    "Y": 0,
+    "Z": 0,
+    "STATE": 0,
+    "TXT_INTRO": ""
+  },
+  {
+    "ID": 20,
+    "LABEL": "Southeast Kaingang",
+    "QTD_FAMILIAS": 0,
+    "QTD_LINGUAS": 0,
+    "QTD_DIALETOS": 0,
+    "STATUS": "dialeto",
+    "NOME": "Southeast Kaingang",
+    "LATITUDE": 0,
+    "LONGITUDE": 0,
+    "GLOTTOLOG": "sout2997",
+    "ESTADOS": "",
+    "USUARIO": "",
+    "MIDIA": "",
+    "VITALIDADE": "",
+    "X": 0,
+    "Y": 0,
+    "Z": 0,
+    "STATE": 0,
+    "TXT_INTRO": ""
+  },
+  {
+    "ID": 21,
+    "LABEL": "Southwest Kaingang",
+    "QTD_FAMILIAS": 0,
+    "QTD_LINGUAS": 0,
+    "QTD_DIALETOS": 0,
+    "STATUS": "dialeto",
+    "NOME": "Southwest Kaingang",
+    "LATITUDE": 0,
+    "LONGITUDE": 0,
+    "GLOTTOLOG": "sout2998",
+    "ESTADOS": "",
+    "USUARIO": "",
+    "MIDIA": "",
+    "VITALIDADE": "",
+    "X": 0,
+    "Y": 0,
+    "Z": 0,
+    "STATE": 0,
+    "TXT_INTRO": ""
+  },
+  {
+    "ID": 22,
+    "LABEL": "São Paulo Kaingáng",
+    "QTD_FAMILIAS": 0,
+    "QTD_LINGUAS": 0,
+    "QTD_DIALETOS": 0,
+    "STATUS": "língua",
     "NOME": "São Paulo Kaingáng",
     "LATITUDE": 0,
     "LONGITUDE": 0,
@@ -400,7 +484,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 19,
+    "ID": 23,
     "LABEL": "Xokleng",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -421,7 +505,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 20,
+    "ID": 24,
     "LABEL": "Je Setentrional",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -442,7 +526,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 21,
+    "ID": 25,
     "LABEL": "Core Northern Je",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -463,7 +547,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 22,
+    "ID": 26,
     "LABEL": "Apinayé",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -484,7 +568,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 23,
+    "ID": 27,
     "LABEL": "Eastern Timbira",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -505,10 +589,10 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 24,
+    "ID": 28,
     "LABEL": "Northeastern Timbira",
-    "QTD_FAMILIAS": 7,
-    "QTD_LINGUAS": 0,
+    "QTD_FAMILIAS": 0,
+    "QTD_LINGUAS": 7,
     "QTD_DIALETOS": 0,
     "STATUS": "família",
     "NOME": "Nordeste Timbira",
@@ -526,10 +610,10 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 25,
+    "ID": 29,
     "LABEL": "Southeastern Timbira",
-    "QTD_FAMILIAS": 6,
-    "QTD_LINGUAS": 0,
+    "QTD_FAMILIAS": 0,
+    "QTD_LINGUAS": 6,
     "QTD_DIALETOS": 0,
     "STATUS": "extinta",
     "NOME": "Sudeste Timbira",
@@ -547,10 +631,10 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 26,
+    "ID": 30,
     "LABEL": "Canela-Krahô",
-    "QTD_FAMILIAS": 1,
-    "QTD_LINGUAS": 0,
+    "QTD_FAMILIAS": 0,
+    "QTD_LINGUAS": 1,
     "QTD_DIALETOS": 0,
     "STATUS": "extinta",
     "NOME": "Canela-Krahô",
@@ -568,10 +652,10 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 27,
+    "ID": 31,
     "LABEL": "Apanjekra",
-    "QTD_FAMILIAS": 3,
-    "QTD_LINGUAS": 0,
+    "QTD_FAMILIAS": 0,
+    "QTD_LINGUAS": 3,
     "QTD_DIALETOS": 0,
     "STATUS": "dialeto",
     "NOME": "Apanjekra",
@@ -589,7 +673,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 28,
+    "ID": 32,
     "LABEL": "Krahô",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -610,10 +694,10 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 29,
+    "ID": 33,
     "LABEL": "Ramkokamekra",
-    "QTD_FAMILIAS": 2,
-    "QTD_LINGUAS": 0,
+    "QTD_FAMILIAS": 0,
+    "QTD_LINGUAS": 2,
     "QTD_DIALETOS": 0,
     "STATUS": "família",
     "NOME": "Ramkokamekra",
@@ -631,7 +715,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 30,
+    "ID": 34,
     "LABEL": "Pará-Maranhão Gavião",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -652,7 +736,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 31,
+    "ID": 35,
     "LABEL": "Krinkati",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -673,7 +757,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 32,
+    "ID": 36,
     "LABEL": "Parkatejê",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -694,7 +778,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 33,
+    "ID": 37,
     "LABEL": "Pykobjê",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -715,7 +799,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 34,
+    "ID": 38,
     "LABEL": "Kayapó",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -736,7 +820,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 35,
+    "ID": 39,
     "LABEL": "Kayapó of Pará",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -757,7 +841,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 36,
+    "ID": 40,
     "LABEL": "Txucarramãe",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -778,7 +862,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 37,
+    "ID": 41,
     "LABEL": "Xikrin",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -799,7 +883,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 38,
+    "ID": 42,
     "LABEL": "Suyá",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -820,7 +904,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 39,
+    "ID": 43,
     "LABEL": "Beiço de Pau",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -841,7 +925,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 40,
+    "ID": 44,
     "LABEL": "Yaruma",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -862,7 +946,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 41,
+    "ID": 45,
     "LABEL": "Panará",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -883,7 +967,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 42,
+    "ID": 46,
     "LABEL": "Karajá",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -904,7 +988,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 43,
+    "ID": 47,
     "LABEL": "Javaé",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -925,7 +1009,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 44,
+    "ID": 48,
     "LABEL": "Northern Karajá",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -946,7 +1030,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 45,
+    "ID": 49,
     "LABEL": "Southern Karajá",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -967,7 +1051,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 46,
+    "ID": 50,
     "LABEL": "Xambioá",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -988,10 +1072,10 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 47,
+    "ID": 51,
     "LABEL": "Maxakali-Borum",
-    "QTD_FAMILIAS": 7,
-    "QTD_LINGUAS": 0,
+    "QTD_FAMILIAS": 0,
+    "QTD_LINGUAS": 7,
     "QTD_DIALETOS": 0,
     "STATUS": "família",
     "NOME": "Maxakali-Borum",
@@ -1009,7 +1093,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 48,
+    "ID": 52,
     "LABEL": "Borum",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1030,7 +1114,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 49,
+    "ID": 53,
     "LABEL": "Arana-Borum",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1051,7 +1135,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 50,
+    "ID": 54,
     "LABEL": "Bakuen",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1072,7 +1156,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 51,
+    "ID": 55,
     "LABEL": "Gueren",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1093,7 +1177,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 52,
+    "ID": 56,
     "LABEL": "Guti-Krak",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1114,7 +1198,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 53,
+    "ID": 57,
     "LABEL": "Krakmun",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1135,7 +1219,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 54,
+    "ID": 58,
     "LABEL": "Krenák",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1156,7 +1240,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 55,
+    "ID": 59,
     "LABEL": "Naknanuk",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1177,7 +1261,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 56,
+    "ID": 60,
     "LABEL": "Nak-Nyapman",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1198,7 +1282,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 57,
+    "ID": 61,
     "LABEL": "Nakrehe",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1219,7 +1303,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 58,
+    "ID": 62,
     "LABEL": "Pozhichá",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1240,7 +1324,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 59,
+    "ID": 63,
     "LABEL": "Shiporok",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1261,7 +1345,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 60,
+    "ID": 64,
     "LABEL": "Maxakalian",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1282,7 +1366,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 61,
+    "ID": 65,
     "LABEL": "Malali",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1303,7 +1387,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 62,
+    "ID": 66,
     "LABEL": "Pataxó Hã-Ha-Hãe",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1324,7 +1408,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 63,
+    "ID": 67,
     "LABEL": "Unclassified Maxakalian",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1345,7 +1429,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 64,
+    "ID": 68,
     "LABEL": "Koropó",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1366,7 +1450,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 65,
+    "ID": 69,
     "LABEL": "Western Maxakali",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1387,7 +1471,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 66,
+    "ID": 70,
     "LABEL": "Capoxo",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1408,7 +1492,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 67,
+    "ID": 71,
     "LABEL": "Macuni",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1429,7 +1513,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 68,
+    "ID": 72,
     "LABEL": "Maxakalí",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1450,7 +1534,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 69,
+    "ID": 73,
     "LABEL": "Ofayé",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1471,7 +1555,7 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 70,
+    "ID": 74,
     "LABEL": "Rikbaktsa",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
