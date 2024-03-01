@@ -6,7 +6,7 @@
     "QTD_FAMILIAS": 77,
     "QTD_LINGUAS": 0,
     "QTD_DIALETOS": 0,
-    "STATUS": "família",
+    "STATUS": "",
     "NOME": "Arawak",
     "LATITUDE": "",
     "LONGITUDE": "",
@@ -18,7 +18,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "0",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -39,7 +39,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -60,7 +60,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -81,7 +81,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -102,7 +102,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -123,7 +123,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -144,7 +144,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -165,7 +165,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -186,7 +186,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -207,7 +207,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -228,7 +228,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -249,7 +249,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -270,7 +270,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -291,7 +291,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -312,7 +312,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -333,7 +333,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -354,7 +354,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -375,7 +375,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -396,7 +396,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -417,7 +417,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -438,7 +438,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -459,7 +459,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -480,7 +480,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -501,7 +501,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -522,7 +522,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -543,7 +543,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -564,7 +564,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -585,7 +585,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -606,7 +606,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -627,7 +627,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -648,7 +648,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -669,7 +669,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -690,7 +690,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -711,7 +711,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -732,7 +732,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -753,7 +753,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -774,7 +774,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -795,7 +795,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -816,7 +816,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -837,7 +837,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -858,7 +858,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -879,7 +879,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -900,7 +900,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -921,7 +921,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -942,7 +942,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -963,7 +963,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -984,7 +984,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -1005,7 +1005,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -1026,7 +1026,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -1047,7 +1047,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -1068,7 +1068,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -1089,7 +1089,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -1110,7 +1110,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -1131,7 +1131,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -1152,7 +1152,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -1173,7 +1173,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -1194,7 +1194,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
@@ -1215,11 +1215,32 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
     "ID": 58,
+    "LABEL": "Ica",
+    "QTD_FAMILIAS": 1,
+    "QTD_LINGUAS": 3,
+    "QTD_DIALETOS": 0,
+    "STATUS": "",
+    "NOME": "Ica",
+    "LATITUDE": "",
+    "LONGITUDE": "",
+    "GLOTTOLOG": "icaa1241",
+    "ESTADOS": "",
+    "USUARIO": "",
+    "MIDIA": "",
+    "VITALIDADE": "",
+    "X": 0,
+    "Y": 0,
+    "Z": 0,
+    "STATE": 0,
+    "TXT_INTRO": ""
+  },
+  {
+    "ID": 59,
     "LABEL": "Japura-Ica",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -1236,11 +1257,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 59,
+    "ID": 60,
     "LABEL": "Jumana",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1257,11 +1278,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 60,
+    "ID": 61,
     "LABEL": "Passe",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1278,11 +1299,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 61,
+    "ID": 62,
     "LABEL": "Kaishana",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1299,11 +1320,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 62,
+    "ID": 63,
     "LABEL": "Mepuri",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1320,11 +1341,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 63,
+    "ID": 64,
     "LABEL": "Nuclear Japura-Colombia",
     "QTD_FAMILIAS": 11,
     "QTD_LINGUAS": 0,
@@ -1341,11 +1362,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 64,
+    "ID": 65,
     "LABEL": "Caqueta",
     "QTD_FAMILIAS": 3,
     "QTD_LINGUAS": 0,
@@ -1362,11 +1383,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 65,
+    "ID": 66,
     "LABEL": "Resígaro",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1383,11 +1404,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 66,
+    "ID": 67,
     "LABEL": "Uainuma-Mariate",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1404,11 +1425,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 67,
+    "ID": 68,
     "LABEL": "Yucuna",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1425,11 +1446,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 68,
+    "ID": 69,
     "LABEL": "Guaru",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1446,11 +1467,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 69,
+    "ID": 70,
     "LABEL": "Yukuna of Miritiparaná",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1467,11 +1488,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 70,
+    "ID": 71,
     "LABEL": "Northeast Japura-Colombia",
     "QTD_FAMILIAS": 8,
     "QTD_LINGUAS": 0,
@@ -1488,11 +1509,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 71,
+    "ID": 72,
     "LABEL": "Baniwa-Curripaco-Tariano",
     "QTD_FAMILIAS": 3,
     "QTD_LINGUAS": 0,
@@ -1509,11 +1530,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 72,
+    "ID": 73,
     "LABEL": "Baniwa-Curripaco",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -1530,11 +1551,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 73,
+    "ID": 74,
     "LABEL": "Baniwa do Icana",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1551,11 +1572,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 74,
+    "ID": 75,
     "LABEL": "Baniwa Central",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1572,11 +1593,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 75,
+    "ID": 76,
     "LABEL": "Baniwa Meridional",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1593,11 +1614,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 76,
+    "ID": 77,
     "LABEL": "Baniwa Setentrional",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1614,11 +1635,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 77,
+    "ID": 78,
     "LABEL": "Baniwa do Alto Icana",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1635,11 +1656,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 78,
+    "ID": 79,
     "LABEL": "Baniwa do Cabeceires do Cuyari",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1656,11 +1677,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 79,
+    "ID": 80,
     "LABEL": "Baniwa do Rio Guainia",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1677,11 +1698,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 80,
+    "ID": 81,
     "LABEL": "Curripaco",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1698,11 +1719,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 81,
+    "ID": 82,
     "LABEL": "Korripako",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1719,11 +1740,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 82,
+    "ID": 83,
     "LABEL": "Unhun",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1740,11 +1761,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 83,
+    "ID": 84,
     "LABEL": "Tariana",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1761,11 +1782,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 84,
+    "ID": 85,
     "LABEL": "Kumandene Tariana",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1782,11 +1803,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 85,
+    "ID": 86,
     "LABEL": "Periquitos-Santa Rosa Tariana",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1803,11 +1824,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 86,
+    "ID": 87,
     "LABEL": "Periquitos Tariana",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1824,11 +1845,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 87,
+    "ID": 88,
     "LABEL": "Santa Rosa Tariana",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1845,11 +1866,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 88,
+    "ID": 89,
     "LABEL": "Cabiyarí",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1866,11 +1887,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 89,
+    "ID": 90,
     "LABEL": "Cassiquiare",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -1887,11 +1908,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 90,
+    "ID": 91,
     "LABEL": "Mandahuaca",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1908,11 +1929,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 91,
+    "ID": 92,
     "LABEL": "Warekena do San Miguel",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1929,11 +1950,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 92,
+    "ID": 93,
     "LABEL": "Piapoco-Achagua",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -1950,11 +1971,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 93,
+    "ID": 94,
     "LABEL": "Achagua",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1971,11 +1992,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 94,
+    "ID": 95,
     "LABEL": "Piapoco",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1992,11 +2013,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 95,
+    "ID": 96,
     "LABEL": "Medio Rio Negro",
     "QTD_FAMILIAS": 4,
     "QTD_LINGUAS": 0,
@@ -2013,11 +2034,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 96,
+    "ID": 97,
     "LABEL": "Bareic",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -2034,11 +2055,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 97,
+    "ID": 98,
     "LABEL": "Baré",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2055,11 +2076,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 98,
+    "ID": 99,
     "LABEL": "Guinau",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2076,11 +2097,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 99,
+    "ID": 100,
     "LABEL": "Marauia-Castana",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -2097,11 +2118,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 100,
+    "ID": 101,
     "LABEL": "Anauyá",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2118,11 +2139,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 101,
+    "ID": 102,
     "LABEL": "Yabaâna-Mainatari",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2139,11 +2160,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 102,
+    "ID": 103,
     "LABEL": "Negro-Roraima",
     "QTD_FAMILIAS": 10,
     "QTD_LINGUAS": 0,
@@ -2160,11 +2181,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 103,
+    "ID": 104,
     "LABEL": "Aruan",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2181,11 +2202,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 104,
+    "ID": 105,
     "LABEL": "Bahuanaic",
     "QTD_FAMILIAS": 3,
     "QTD_LINGUAS": 0,
@@ -2202,11 +2223,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 105,
+    "ID": 106,
     "LABEL": "Cariai-Manao",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -2223,11 +2244,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 106,
+    "ID": 107,
     "LABEL": "Cariay",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2244,11 +2265,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 107,
+    "ID": 108,
     "LABEL": "Manao",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2265,11 +2286,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 108,
+    "ID": 109,
     "LABEL": "Xiriâna",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2286,11 +2307,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 109,
+    "ID": 110,
     "LABEL": "Mapidianic",
     "QTD_FAMILIAS": 6,
     "QTD_LINGUAS": 0,
@@ -2307,11 +2328,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 110,
+    "ID": 111,
     "LABEL": "Mapidian-Mawayana",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2328,11 +2349,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 111,
+    "ID": 112,
     "LABEL": "Wapishanan",
     "QTD_FAMILIAS": 5,
     "QTD_LINGUAS": 0,
@@ -2349,11 +2370,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 112,
+    "ID": 113,
     "LABEL": "Aroaqui",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2370,11 +2391,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 113,
+    "ID": 114,
     "LABEL": "Parauana",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2391,11 +2412,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 114,
+    "ID": 115,
     "LABEL": "Unclassified Wapishanan",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2412,11 +2433,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 115,
+    "ID": 116,
     "LABEL": "Shebayo",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2433,11 +2454,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 116,
+    "ID": 117,
     "LABEL": "Wapishana-Atorai",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -2454,11 +2475,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 117,
+    "ID": 118,
     "LABEL": "Atorada",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2475,11 +2496,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 118,
+    "ID": 119,
     "LABEL": "Wapishana",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2496,11 +2517,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 119,
+    "ID": 120,
     "LABEL": "Amariba",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -2517,11 +2538,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 120,
+    "ID": 121,
     "LABEL": "Atorai",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -2538,11 +2559,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 121,
+    "ID": 122,
     "LABEL": "Palikúr",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2559,11 +2580,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 122,
+    "ID": 123,
     "LABEL": "Southern Maipuran",
     "QTD_FAMILIAS": 27,
     "QTD_LINGUAS": 0,
@@ -2580,11 +2601,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 123,
+    "ID": 124,
     "LABEL": "Bolivian Arawakan",
     "QTD_FAMILIAS": 7,
     "QTD_LINGUAS": 0,
@@ -2601,11 +2622,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 124,
+    "ID": 125,
     "LABEL": "Baure",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2622,11 +2643,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 125,
+    "ID": 126,
     "LABEL": "Carmelito Baure",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -2643,11 +2664,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 126,
+    "ID": 127,
     "LABEL": "Historical Baure",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -2664,11 +2685,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 127,
+    "ID": 128,
     "LABEL": "Joaquiniano",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -2685,11 +2706,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 128,
+    "ID": 129,
     "LABEL": "Modern Baure",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -2706,11 +2727,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 129,
+    "ID": 130,
     "LABEL": "Muxojeona",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -2727,11 +2748,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 130,
+    "ID": 131,
     "LABEL": "Paiconeca",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -2748,11 +2769,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 131,
+    "ID": 132,
     "LABEL": "Mojeno-Paunaca",
     "QTD_FAMILIAS": 3,
     "QTD_LINGUAS": 0,
@@ -2769,11 +2790,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 132,
+    "ID": 133,
     "LABEL": "Mojeño",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -2790,11 +2811,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 133,
+    "ID": 134,
     "LABEL": "Ignaciano",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2811,11 +2832,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 134,
+    "ID": 135,
     "LABEL": "Trinitario-Javeriano-Loretano",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2832,11 +2853,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 135,
+    "ID": 136,
     "LABEL": "Javeriano",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -2853,11 +2874,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 136,
+    "ID": 137,
     "LABEL": "Loreto",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -2874,11 +2895,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 137,
+    "ID": 138,
     "LABEL": "Trinitario",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -2895,11 +2916,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 138,
+    "ID": 139,
     "LABEL": "Paunaka",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2916,11 +2937,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 139,
+    "ID": 140,
     "LABEL": "Terena-Kinikinao-Chane",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2937,11 +2958,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 140,
+    "ID": 141,
     "LABEL": "Chané",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -2958,11 +2979,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 141,
+    "ID": 142,
     "LABEL": "Kinikinao",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -2979,11 +3000,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 142,
+    "ID": 143,
     "LABEL": "Terena",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -3000,11 +3021,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 143,
+    "ID": 144,
     "LABEL": "Unclassified Bolivian Arawakan",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -3021,11 +3042,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 144,
+    "ID": 145,
     "LABEL": "Apolista",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3042,11 +3063,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 145,
+    "ID": 146,
     "LABEL": "Magiana",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3063,11 +3084,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 146,
+    "ID": 147,
     "LABEL": "Kampa-Amuesha",
     "QTD_FAMILIAS": 12,
     "QTD_LINGUAS": 0,
@@ -3084,11 +3105,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 147,
+    "ID": 148,
     "LABEL": "Pre-Andine Maipuran",
     "QTD_FAMILIAS": 11,
     "QTD_LINGUAS": 0,
@@ -3105,11 +3126,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 148,
+    "ID": 149,
     "LABEL": "Asha-Ashe-Kak-Matsi-Nan",
     "QTD_FAMILIAS": 10,
     "QTD_LINGUAS": 0,
@@ -3126,11 +3147,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 149,
+    "ID": 150,
     "LABEL": "Asha-Ashe-Kak",
     "QTD_FAMILIAS": 8,
     "QTD_LINGUAS": 0,
@@ -3147,11 +3168,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 150,
+    "ID": 151,
     "LABEL": "Ashe-Asha",
     "QTD_FAMILIAS": 7,
     "QTD_LINGUAS": 0,
@@ -3168,11 +3189,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 151,
+    "ID": 152,
     "LABEL": "Ashe-Asha Norte",
     "QTD_FAMILIAS": 4,
     "QTD_LINGUAS": 0,
@@ -3189,11 +3210,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 152,
+    "ID": 153,
     "LABEL": "Ajyíninka Apurucayali",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3210,11 +3231,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 153,
+    "ID": 154,
     "LABEL": "Ashéninka Perené",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3231,11 +3252,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 154,
+    "ID": 155,
     "LABEL": "Pichis Ashéninka",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3252,11 +3273,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 155,
+    "ID": 156,
     "LABEL": "Ucayali-Yurúa Ashéninka",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3273,11 +3294,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 156,
+    "ID": 157,
     "LABEL": "Asheninka",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -3294,11 +3315,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 157,
+    "ID": 158,
     "LABEL": "Ashéninka Pajonal",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3315,11 +3336,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 158,
+    "ID": 159,
     "LABEL": "South Ucayali Ashéninka",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3336,11 +3357,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 159,
+    "ID": 160,
     "LABEL": "Asháninka",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3357,11 +3378,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 160,
+    "ID": 161,
     "LABEL": "Caquinte",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3378,11 +3399,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 161,
+    "ID": 162,
     "LABEL": "Matsi-Nan",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -3399,11 +3420,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 162,
+    "ID": 163,
     "LABEL": "Machiguenga",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3420,11 +3441,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 163,
+    "ID": 164,
     "LABEL": "Nanti",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3441,11 +3462,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 164,
+    "ID": 165,
     "LABEL": "Nomatsiguenga",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3462,11 +3483,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 165,
+    "ID": 166,
     "LABEL": "Yanesha'",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3483,11 +3504,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 166,
+    "ID": 167,
     "LABEL": "Purus-Chamicuro",
     "QTD_FAMILIAS": 8,
     "QTD_LINGUAS": 0,
@@ -3504,11 +3525,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 167,
+    "ID": 168,
     "LABEL": "Chamicuro-Morike",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -3525,11 +3546,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 168,
+    "ID": 169,
     "LABEL": "Chamicuro",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3546,11 +3567,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 169,
+    "ID": 170,
     "LABEL": "Morike",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3567,11 +3588,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 170,
+    "ID": 171,
     "LABEL": "Purus",
     "QTD_FAMILIAS": 6,
     "QTD_LINGUAS": 0,
@@ -3588,11 +3609,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 171,
+    "ID": 172,
     "LABEL": "Apurinã",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3609,11 +3630,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 172,
+    "ID": 173,
     "LABEL": "Iñapari",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3630,11 +3651,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 173,
+    "ID": 174,
     "LABEL": "Modern Iñapari",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -3651,11 +3672,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 174,
+    "ID": 175,
     "LABEL": "Pacaguara-Mercier",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -3672,11 +3693,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 175,
+    "ID": 176,
     "LABEL": "Unclassified Purus",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3693,11 +3714,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 176,
+    "ID": 177,
     "LABEL": "Carari",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3714,11 +3735,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 177,
+    "ID": 178,
     "LABEL": "Yineic",
     "QTD_FAMILIAS": 3,
     "QTD_LINGUAS": 0,
@@ -3735,11 +3756,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 178,
+    "ID": 179,
     "LABEL": "Machinere",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3756,11 +3777,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 179,
+    "ID": 180,
     "LABEL": "Western Yineic",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -3777,11 +3798,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 180,
+    "ID": 181,
     "LABEL": "Mashco Piro",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3798,11 +3819,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 181,
+    "ID": 182,
     "LABEL": "Yine",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3819,11 +3840,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 182,
+    "ID": 183,
     "LABEL": "Madre de Dios Yine",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -3840,11 +3861,11 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   },
   {
-    "ID": 183,
+    "ID": 184,
     "LABEL": "Urubamba Yine",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -3861,7 +3882,7 @@
     "X": 0,
     "Y": 0,
     "Z": 0,
-    "STATE": "",
+    "STATE": 0,
     "TXT_INTRO": ""
   }
 ]
