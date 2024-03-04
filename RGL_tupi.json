@@ -612,7 +612,7 @@
   {
     "ID": 29,
     "LABEL": "Tupi-Guarani Subgroup I.B",
-    "STATUS": "",
+    "STATUS": "ramo",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 3,
     "QTD_LINGUAS": 0,
@@ -633,7 +633,7 @@
   {
     "ID": 30,
     "LABEL": "Chiriguanic",
-    "STATUS": "",
+    "STATUS": "ramo",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -801,7 +801,7 @@
   {
     "ID": 38,
     "LABEL": "Tupi-Guarani Subgroup II",
-    "STATUS": "",
+    "STATUS": "ramo",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 5,
     "QTD_LINGUAS": 0,
@@ -843,7 +843,7 @@
   {
     "ID": 40,
     "LABEL": "Warazu-Sirionoid",
-    "STATUS": "",
+    "STATUS": "ramo",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 4,
     "QTD_LINGUAS": 0,
@@ -864,7 +864,7 @@
   {
     "ID": 41,
     "LABEL": "Sirionoid",
-    "STATUS": "",
+    "STATUS": "ramo",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 3,
     "QTD_LINGUAS": 0,
@@ -969,7 +969,7 @@
   {
     "ID": 46,
     "LABEL": "Tupi-Guarani Subgroup III",
-    "STATUS": "",
+    "STATUS": "ramo",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 5,
     "QTD_LINGUAS": 0,
@@ -1432,7 +1432,7 @@
     "ID": 68,
     "LABEL": "Tupi-Guarani Subgroup IV",
     "STATUS": "",
-    "VITALIDADE": "",
+    "VITALIDADE": "ramo",
     "QTD_FAMILIAS": 6,
     "QTD_LINGUAS": 0,
     "QTD_DIALETOS": 0,
@@ -1474,7 +1474,7 @@
     "ID": 70,
     "LABEL": "Tupi-Guarani Subgroup IV.A",
     "STATUS": "",
-    "VITALIDADE": "",
+    "VITALIDADE": "ramo",
     "QTD_FAMILIAS": 3,
     "QTD_LINGUAS": 0,
     "QTD_DIALETOS": 0,
@@ -1558,7 +1558,7 @@
     "ID": 74,
     "LABEL": "Tupi-Guarani Subgroup IV.B",
     "STATUS": "",
-    "VITALIDADE": "",
+    "VITALIDADE": "ramo",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
     "QTD_DIALETOS": 0,
@@ -1788,7 +1788,7 @@
   {
     "ID": 85,
     "LABEL": "Tupi-Guarani Subgroup V",
-    "STATUS": "",
+    "STATUS": "ramo",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 4,
     "QTD_LINGUAS": 0,
@@ -1809,7 +1809,7 @@
   {
     "ID": 86,
     "LABEL": "Arawetic",
-    "STATUS": "",
+    "STATUS": "ramo",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 3,
     "QTD_LINGUAS": 0,
@@ -1914,7 +1914,7 @@
   {
     "ID": 91,
     "LABEL": "Tupi-Guarani Subgroup VI",
-    "STATUS": "língua",
+    "STATUS": "ramo",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 9,
     "QTD_LINGUAS": 0,
@@ -2250,7 +2250,7 @@
   {
     "ID": 107,
     "LABEL": "Tupi-Guarani Subgroup VIII",
-    "STATUS": "",
+    "STATUS": "ramo",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 8,
     "QTD_LINGUAS": 0,
@@ -2271,7 +2271,7 @@
   {
     "ID": 108,
     "LABEL": "Guaja-Kaapor-Ava",
-    "STATUS": "",
+    "STATUS": "ramo",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 5,
     "QTD_LINGUAS": 0,
@@ -2313,7 +2313,7 @@
   {
     "ID": 110,
     "LABEL": "Guaja-Aure-Aura",
-    "STATUS": "",
+    "STATUS": "ramo",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -2481,7 +2481,7 @@
   {
     "ID": 118,
     "LABEL": "Wayampi-Zoe-Emerillon",
-    "STATUS": "",
+    "STATUS": "ramo",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 3,
     "QTD_LINGUAS": 0,
@@ -2565,7 +2565,7 @@
   {
     "ID": 122,
     "LABEL": "Zoe-Emerillon",
-    "STATUS": "",
+    "STATUS": "ramo",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -2649,7 +2649,7 @@
   {
     "ID": 126,
     "LABEL": "Monde",
-    "STATUS": "",
+    "STATUS": "ramo",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 5,
     "QTD_LINGUAS": 0,
@@ -2670,7 +2670,7 @@
   {
     "ID": 127,
     "LABEL": "Gavianic",
-    "STATUS": "",
+    "STATUS": "ramo",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 4,
     "QTD_LINGUAS": 0,
@@ -2880,7 +2880,7 @@
   {
     "ID": 137,
     "LABEL": "Mundurukuic",
-    "STATUS": "",
+    "STATUS": "ramo",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -2943,7 +2943,7 @@
   {
     "ID": 140,
     "LABEL": "Purubora-Ramarama",
-    "STATUS": "",
+    "STATUS": "ramo",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 3,
     "QTD_LINGUAS": 0,
@@ -2985,7 +2985,7 @@
   {
     "ID": 142,
     "LABEL": "Ramarama",
-    "STATUS": "",
+    "STATUS": "ramo",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -3069,7 +3069,7 @@
   {
     "ID": 146,
     "LABEL": "Tuparic",
-    "STATUS": "",
+    "STATUS": "ramo",
     "VITALIDADE": "Mudando",
     "QTD_FAMILIAS": 5,
     "QTD_LINGUAS": 0,
@@ -3111,7 +3111,7 @@
   {
     "ID": 148,
     "LABEL": "Nuclear Tuparic",
-    "STATUS": "",
+    "STATUS": "ramo",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 4,
     "QTD_LINGUAS": 0,
@@ -3132,7 +3132,7 @@
   {
     "ID": 149,
     "LABEL": "Corumbiara",
-    "STATUS": "",
+    "STATUS": "ramo",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -3258,7 +3258,7 @@
   {
     "ID": 155,
     "LABEL": "Wayoro-Tupari",
-    "STATUS": "",
+    "STATUS": "ramo",
     "VITALIDADE": "Quase sem uso",
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 0,
@@ -3363,7 +3363,7 @@
   {
     "ID": 160,
     "LABEL": "Yuruna",
-    "STATUS": "",
+    "STATUS": "ramo",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 3,
     "QTD_LINGUAS": 0,
