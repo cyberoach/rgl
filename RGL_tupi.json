@@ -2649,7 +2649,7 @@
   {
     "ID": 126,
     "LABEL": "Monde",
-    "STATUS": "ramo",
+    "STATUS": "família",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 5,
     "QTD_LINGUAS": 0,
@@ -2943,7 +2943,7 @@
   {
     "ID": 140,
     "LABEL": "Purubora-Ramarama",
-    "STATUS": "ramo",
+    "STATUS": "família",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 3,
     "QTD_LINGUAS": 0,
@@ -3069,8 +3069,8 @@
   {
     "ID": 146,
     "LABEL": "Tuparic",
-    "STATUS": "ramo",
-    "VITALIDADE": "Mudando",
+    "STATUS": "família",
+    "VITALIDADE": "",
     "QTD_FAMILIAS": 5,
     "QTD_LINGUAS": 0,
     "QTD_DIALETOS": 0,
@@ -3363,7 +3363,7 @@
   {
     "ID": 160,
     "LABEL": "Yuruna",
-    "STATUS": "ramo",
+    "STATUS": "família",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 3,
     "QTD_LINGUAS": 0,
