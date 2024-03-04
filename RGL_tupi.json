@@ -87,7 +87,7 @@
   {
     "ID": 4,
     "LABEL": "Kepkiriwát",
-    "STATUS": "extinta",
+    "STATUS": "língua",
     "VITALIDADE": "Sem uso",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -780,7 +780,7 @@
   {
     "ID": 37,
     "LABEL": "Xetá",
-    "STATUS": "extinta",
+    "STATUS": "língua",
     "VITALIDADE": "Sem uso",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -990,7 +990,7 @@
   {
     "ID": 47,
     "LABEL": "Lingua Geral Paulista",
-    "STATUS": "extinta",
+    "STATUS": "língua",
     "VITALIDADE": "Sem uso",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1179,7 +1179,7 @@
   {
     "ID": 56,
     "LABEL": "Tupinambá",
-    "STATUS": "extinta",
+    "STATUS": "língua",
     "VITALIDADE": "Sem uso",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1242,7 +1242,7 @@
   {
     "ID": 59,
     "LABEL": "Potiguára",
-    "STATUS": "extinta",
+    "STATUS": "língua",
     "VITALIDADE": "Sem uso",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1410,7 +1410,7 @@
   {
     "ID": 67,
     "LABEL": "Tupinikin",
-    "STATUS": "extinta",
+    "STATUS": "língua",
     "VITALIDADE": "Sem uso",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1767,7 +1767,7 @@
   {
     "ID": 84,
     "LABEL": "Turiwára",
-    "STATUS": "extinta",
+    "STATUS": "língua",
     "VITALIDADE": "Sem uso",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1830,7 +1830,7 @@
   {
     "ID": 87,
     "LABEL": "Amanayé",
-    "STATUS": "extinta",
+    "STATUS": "língua",
     "VITALIDADE": "Sem uso",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -1851,7 +1851,7 @@
   {
     "ID": 88,
     "LABEL": "Anambé",
-    "STATUS": "extinta",
+    "STATUS": "língua",
     "VITALIDADE": "Sem uso",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2019,7 +2019,7 @@
   {
     "ID": 96,
     "LABEL": "Apiaká",
-    "STATUS": "extinta",
+    "STATUS": "língua",
     "VITALIDADE": "Sem uso",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2229,7 +2229,7 @@
   {
     "ID": 106,
     "LABEL": "Wiraféd",
-    "STATUS": "extinta",
+    "STATUS": "língua",
     "VITALIDADE": "Sem uso",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2334,7 +2334,7 @@
   {
     "ID": 111,
     "LABEL": "Aurê y Aurá",
-    "STATUS": "extinta",
+    "STATUS": "língua",
     "VITALIDADE": "Sem uso",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2439,7 +2439,7 @@
   {
     "ID": 116,
     "LABEL": "Tacunyape",
-    "STATUS": "extinta",
+    "STATUS": "língua",
     "VITALIDADE": "Sem uso",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -2838,7 +2838,7 @@
   {
     "ID": 135,
     "LABEL": "Salamãi",
-    "STATUS": "extinta",
+    "STATUS": "língua",
     "VITALIDADE": "Sem uso",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3048,7 +3048,7 @@
   {
     "ID": 145,
     "LABEL": "Urumi",
-    "STATUS": "extinta",
+    "STATUS": "língua",
     "VITALIDADE": "Sem uso",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3426,7 +3426,7 @@
   {
     "ID": 163,
     "LABEL": "Maritsauá",
-    "STATUS": "extinta",
+    "STATUS": "língua",
     "VITALIDADE": "Sem uso",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 0,
@@ -3448,7 +3448,7 @@
     "ID": 164,
     "LABEL": "Arupai",
     "STATUS": "dialeto",
-    "VITALIDADE": "",
+    "VITALIDADE": "Sem uso",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
     "QTD_DIALETOS": 0,
