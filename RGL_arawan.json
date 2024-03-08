@@ -24,7 +24,7 @@
   {
     "ID": 1,
     "LABEL": "Aruá (Amazonas State)",
-    "STATUS": "language",
+    "STATUS": "língua",
     "VITALIDADE": "Sem uso",
     "QTD_FAMILIAS": "",
     "QTD_LINGUAS": "",
@@ -45,7 +45,7 @@
   {
     "ID": 4,
     "LABEL": "Banawa",
-    "STATUS": "dialect",
+    "STATUS": "dialeto",
     "VITALIDADE": "",
     "QTD_FAMILIAS": "",
     "QTD_LINGUAS": "",
@@ -66,7 +66,7 @@
   {
     "ID": 8,
     "LABEL": "Culina",
-    "STATUS": "language",
+    "STATUS": "língua",
     "VITALIDADE": "Mundado",
     "QTD_FAMILIAS": "",
     "QTD_LINGUAS": "",
@@ -87,7 +87,7 @@
   {
     "ID": 13,
     "LABEL": "Cuniuá",
-    "STATUS": "dialect",
+    "STATUS": "dialeto",
     "VITALIDADE": "",
     "QTD_FAMILIAS": "",
     "QTD_LINGUAS": "",
@@ -108,7 +108,7 @@
   {
     "ID": 11,
     "LABEL": "Deni",
-    "STATUS": "language",
+    "STATUS": "língua",
     "VITALIDADE": "Mundado",
     "QTD_FAMILIAS": "",
     "QTD_LINGUAS": "",
@@ -129,7 +129,7 @@
   {
     "ID": 5,
     "LABEL": "Eastern Jamamadi",
-    "STATUS": "dialect",
+    "STATUS": "dialeto",
     "VITALIDADE": "",
     "QTD_FAMILIAS": "",
     "QTD_LINGUAS": "",
@@ -150,7 +150,7 @@
   {
     "ID": 17,
     "LABEL": "Ituxi Paumari",
-    "STATUS": "dialect",
+    "STATUS": "dialeto",
     "VITALIDADE": "",
     "QTD_FAMILIAS": "",
     "QTD_LINGUAS": "",
@@ -171,7 +171,7 @@
   {
     "ID": 6,
     "LABEL": "Jarawara",
-    "STATUS": "dialect",
+    "STATUS": "dialeto",
     "VITALIDADE": "",
     "QTD_FAMILIAS": "",
     "QTD_LINGUAS": "",
@@ -192,7 +192,7 @@
   {
     "ID": 9,
     "LABEL": "Juruá-Jutaí",
-    "STATUS": "dialect",
+    "STATUS": "dialeto",
     "VITALIDADE": "",
     "QTD_FAMILIAS": "",
     "QTD_LINGUAS": "",
@@ -213,7 +213,7 @@
   {
     "ID": 3,
     "LABEL": "Madi",
-    "STATUS": "language",
+    "STATUS": "língua",
     "VITALIDADE": "Mundado",
     "QTD_FAMILIAS": "",
     "QTD_LINGUAS": "",
@@ -234,7 +234,7 @@
   {
     "ID": 2,
     "LABEL": "Madi-Madiha",
-    "STATUS": "family",
+    "STATUS": "família",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 3,
@@ -255,7 +255,7 @@
   {
     "ID": 7,
     "LABEL": "Madiha",
-    "STATUS": "family",
+    "STATUS": "família",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 2,
@@ -276,7 +276,7 @@
   {
     "ID": 12,
     "LABEL": "Nuclear Deni",
-    "STATUS": "dialect",
+    "STATUS": "dialeto",
     "VITALIDADE": "",
     "QTD_FAMILIAS": "",
     "QTD_LINGUAS": "",
@@ -297,7 +297,7 @@
   {
     "ID": 16,
     "LABEL": "Paumari",
-    "STATUS": "language",
+    "STATUS": "língua",
     "VITALIDADE": "Mundado",
     "QTD_FAMILIAS": "",
     "QTD_LINGUAS": "",
@@ -318,7 +318,7 @@
   {
     "ID": 18,
     "LABEL": "Purus Paumari",
-    "STATUS": "dialect",
+    "STATUS": "dialeto",
     "VITALIDADE": "",
     "QTD_FAMILIAS": "",
     "QTD_LINGUAS": "",
@@ -339,7 +339,7 @@
   {
     "ID": 10,
     "LABEL": "Purus-Envira",
-    "STATUS": "dialect",
+    "STATUS": "dialeto",
     "VITALIDADE": "",
     "QTD_FAMILIAS": "",
     "QTD_LINGUAS": "",
@@ -360,7 +360,7 @@
   {
     "ID": 20,
     "LABEL": "Suruahá",
-    "STATUS": "language",
+    "STATUS": "língua",
     "VITALIDADE": "Mundado",
     "QTD_FAMILIAS": "",
     "QTD_LINGUAS": "",
@@ -381,7 +381,7 @@
   {
     "ID": 19,
     "LABEL": "Tapauá Paumari",
-    "STATUS": "dialect",
+    "STATUS": "dialeto",
     "VITALIDADE": "",
     "QTD_FAMILIAS": "",
     "QTD_LINGUAS": "",
@@ -402,7 +402,7 @@
   {
     "ID": 15,
     "LABEL": "Western Jamamadi",
-    "STATUS": "dialect",
+    "STATUS": "dialeto",
     "VITALIDADE": "",
     "QTD_FAMILIAS": "",
     "QTD_LINGUAS": "",
@@ -423,7 +423,7 @@
   {
     "ID": 14,
     "LABEL": "Xeruã",
-    "STATUS": "dialect",
+    "STATUS": "dialeto",
     "VITALIDADE": "",
     "QTD_FAMILIAS": "",
     "QTD_LINGUAS": "",
