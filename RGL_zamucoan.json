@@ -1,9 +1,9 @@
 {
-"Zamucoan":[
+"Zamucoan": [
   {
     "ID": 0,
     "LABEL": "Zamucoan",
-    "NOME": "Zamucoan",
+    "NOME": "Fam. Zamuco",
     "STATUS": "tronco",
     "VITALIDADE": "",
     "GLOTTOLOG": "zamu1243",
@@ -19,7 +19,7 @@
     "Y": 0,
     "Z": 0,
     "STATE": "",
-    "TXT_INTRO": "As l√≠nguas zamucoana, zamucana ou zamuco formam uma fam√≠lia de l√≠nguas amer√≠ndias da Am√©rica do Sul."
+    "TXT_INTRO": "As lÌnguas Zamuco formam uma pequena famÌlia de trÍs lÌnguas no norte do Paraguay e no oeste do Mato Grosso do Sul."
   },
   {
     "ID": 1,
@@ -29,7 +29,7 @@
     "VITALIDADE": "Mudando",
     "GLOTTOLOG": "cham1315",
     "QTD_FAMILIAS": 0,
-    "QTD_LINGUAS": 0,
+    "QTD_LINGUAS": 1,
     "QTD_DIALETOS": 2,
     "LATITUDE": -205.899,
     "LONGITUDE": -582.005,
@@ -47,7 +47,7 @@
     "LABEL": "Ebitoso",
     "NOME": "Ebitoso",
     "STATUS": "dialect",
-    "VITALIDADE": "Amea√ßada",
+    "VITALIDADE": "",
     "GLOTTOLOG": "ebit1237",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -88,7 +88,7 @@
     "ID": 4,
     "LABEL": "Zamuco-Ayoreo",
     "NOME": "Zamuco-Ayoreo",
-    "STATUS": "family",
+    "STATUS": "*ramo",
     "VITALIDADE": "",
     "GLOTTOLOG": "zamu1244",
     "QTD_FAMILIAS": 0,
@@ -113,7 +113,7 @@
     "VITALIDADE": "Mudando",
     "GLOTTOLOG": "ayor1240",
     "QTD_FAMILIAS": 0,
-    "QTD_LINGUAS": 0,
+    "QTD_LINGUAS": 1,
     "QTD_DIALETOS": 1,
     "LATITUDE": "-19.220.055",
     "LONGITUDE": "-60.217.495",
@@ -155,7 +155,7 @@
     "VITALIDADE": "Sem Uso",
     "GLOTTOLOG": "zamu1245",
     "QTD_FAMILIAS": 0,
-    "QTD_LINGUAS": 0,
+    "QTD_LINGUAS": 1,
     "QTD_DIALETOS": 0,
     "LATITUDE": "-18.910.444",
     "LONGITUDE": "-59.439.698",

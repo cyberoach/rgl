@@ -1,9 +1,9 @@
 {
-"Chapacura":[
+"Chapacura": [
   {
     "ID": 0,
     "LABEL": "Chapacuran",
-    "NOME": "Chapacuran",
+    "NOME": "Fam. Chapacura",
     "STATUS": "tronco",
     "VITALIDADE": "",
     "GLOTTOLOG": "chap1271",
@@ -19,7 +19,7 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": "As línguas chapacuras ou txapakura formam uma família de línguas ameríndias da Bolívia e do Brasil nos estados de Rondônia e Mato Grosso."
+    "TXT_INTRO": "As línguas Chapacura ou Txapakura formam uma família de antigamente 12 línguas faladas na Bolívia e no Brasil (nos estados de Rondônia e Amazonas). Hoje há falantes de somente 5 delas, na sua maioria idosos, assim que há o risco concreto que em uma ou duas gerações haja somente uma ou duas línguas vivas desta outrora forte família."
   },
   {
     "ID": 1,
@@ -504,5 +504,5 @@
     "STATE": "",
     "TXT_INTRO": ""
   }
-]
+ ]
 }

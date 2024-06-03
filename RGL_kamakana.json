@@ -1,14 +1,14 @@
 {
-"Kamakana":[
+"Kamakana": [
   {
     "ID": 0,
-    "LABEL": "Fam. Kamakana",
+    "LABEL": "Kamakanan",
     "STATUS": "tronco",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 4,
     "QTD_DIALETOS": 0,
-    "NOME": "Kamakanan",
+    "NOME": "Fam. Kamakana",
     "LATITUDE": "",
     "LONGITUDE": "",
     "GLOTTOLOG": "araw1281",
@@ -19,7 +19,7 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": "As línguas Kamakã são uma pequena família de línguas Macro-Jê extintas da Bahia, nordeste do Brasil."
+    "TXT_INTRO": "Nenhuma das línguas Kamakana é falada hoje em dia. Era uma pequena família de línguas faladas no nordeste de Minas Gerais e no Sul da Bahia. É possível que esta família faça parte da grande família Macro-Jê, mas isto ainda precisa ser demonstrado."
   },
   {
     "ID": 1,

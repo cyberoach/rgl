@@ -1,5 +1,5 @@
 {
-"Nambiquaran":[
+"Nambiquaran": [
   {
     "ID": 0,
     "LABEL": "Nambiquaran",
@@ -19,7 +19,7 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": "Os grupos que ocupavam e que ainda ocupam a Chapada dos Parecis, o Vale do Guaporé e a região norte, entre o rio Iquê e os rios Cabixi e Piolho, falam línguas da família lingüística Nambiquara. Trata-se de uma família lingüística sem qualquer relação comprovada com outras famílias lingüísticas da América do Sul. De acordo com a classificação de David Price (1972), a família lingüística Nambiquara pode ser dividida em três grandes grupos de línguas faladas em diferentes regiões do território Nambiquara. São elas: Sabanê, Nambiquara do norte e Nambiquara do sul."
+    "TXT_INTRO": "Vários grupos que ocupam a região perto da fronteira do Mato Grosso com Rondônia falam variedades de uma das seis línguas da família Nambiquara. As diferentes variedades da língua Nambiquara do Sul são faladas por diversos povos no oeste do Mato Grosso."
   },
   {
     "ID": 1,
@@ -118,7 +118,7 @@
     "LONGITUDE": "-60,5",
     "GLOTTOLOG": "roos1235",
     "ESTADOS": "Rondônia",
-    "USUARIO": "10-jan.",
+    "USUARIO": "10/jan",
     "MIDIA": "",
     "X": 0,
     "Y": 0,
@@ -139,7 +139,7 @@
     "LONGITUDE": "-60.422.423",
     "GLOTTOLOG": "roos1235",
     "ESTADOS": "Rondônia",
-    "USUARIO": "10-jan.",
+    "USUARIO": "10/jan",
     "MIDIA": "",
     "X": 0,
     "Y": 0,
@@ -160,7 +160,7 @@
     "LONGITUDE": "-60.535.032",
     "GLOTTOLOG": "roos1235",
     "ESTADOS": "Rondônia",
-    "USUARIO": "10-jan.",
+    "USUARIO": "10/jan",
     "MIDIA": "",
     "X": 0,
     "Y": 0,
@@ -422,7 +422,7 @@
   },
   {
     "ID": 20,
-    "LABEL": "Sabanê",
+    "LABEL": "Sabanê", 
     "STATUS": "língua",
     "VITALIDADE": "Quase sem uso",
     "QTD_FAMILIAS": 0,
@@ -433,7 +433,7 @@
     "LONGITUDE": "-60,335",
     "GLOTTOLOG": "sout2994",
     "ESTADOS": "Mato Grosso",
-    "USUARIO": "10-jan.",
+    "USUARIO": "10/jan",
     "MIDIA": "",
     "X": 0,
     "Y": 0,

@@ -1,5 +1,5 @@
 {
-"Arawan":[
+"Arawan": [
   {
     "ID": 0,
     "LABEL": "Arawan",
@@ -8,7 +8,7 @@
     "QTD_FAMILIAS": 2,
     "QTD_LINGUAS": 6,
     "QTD_DIALETOS": 12,
-    "NOME": "Arawá",
+    "NOME": "Fam. Arawá",
     "LATITUDE": "",
     "LONGITUDE": "",
     "GLOTTOLOG": "araw1282",
@@ -19,7 +19,7 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": "A família Arawá, constituída por um conjunto de línguas estreitamente aparentadas entre si e situadas numa área geográfica bem definida, entre os rios Puros e Juruá. Algumas óutras línguas brasileiras que foram consideradas por um ou por outro autor como pertencendo à família Aruák, tais como o Tukúna no alto Solimões, e o lrántxe, no oeste de Mato Grosso, agora são reconhecidas como independentes."
+    "TXT_INTRO": "A família Arawá é constituída por seis línguas estreitamente aparentadas entre si, situadas numa área geográfica bem definida no estado do Amazonas e no Acre, entre os rios Purus e Juruá. Apesar da semelhança do nome, esta família não parece ser relacionada com a família Arawak."
   },
   {
     "ID": 1,
@@ -27,11 +27,11 @@
     "STATUS": "língua",
     "VITALIDADE": "Sem uso",
     "QTD_FAMILIAS": "",
-    "QTD_LINGUAS": "",
+    "QTD_LINGUAS": 1,
     "QTD_DIALETOS": "",
-    "NOME": "Aruá (Amazonas)",
-    "LATITUDE": -5.5,
-    "LONGITUDE": -67.98,
+    "NOME": "Aruá",
+    "LATITUDE": "-5,5",
+    "LONGITUDE": "-67,98",
     "GLOTTOLOG": "arua1263",
     "ESTADOS": "Amazonas",
     "USUARIO": "",
@@ -40,13 +40,13 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": {}
+    "TXT_INTRO": ""
   },
   {
     "ID": 2,
     "LABEL": "Madi-Madiha",
-    "STATUS": "família",
-    "VITALIDADE": "Sem uso",
+    "STATUS": "ramo",
+    "VITALIDADE": "",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 3,
     "QTD_DIALETOS": 9,
@@ -61,7 +61,7 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": {}
+    "TXT_INTRO": ""
   },
   {
     "ID": 3,
@@ -69,11 +69,11 @@
     "STATUS": "língua",
     "VITALIDADE": "Mudando",
     "QTD_FAMILIAS": "",
-    "QTD_LINGUAS": "",
+    "QTD_LINGUAS": 1,
     "QTD_DIALETOS": "",
     "NOME": "Jamamadi/Jarawára",
-    "LATITUDE": -762.223,
-    "LONGITUDE": -665.662,
+    "LATITUDE": "-762,223",
+    "LONGITUDE": "-665,662",
     "GLOTTOLOG": "jama1261",
     "ESTADOS": "Amazonas",
     "USUARIO": "",
@@ -82,18 +82,18 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": {}
+    "TXT_INTRO": ""
   },
   {
     "ID": 4,
     "LABEL": "Banawa",
     "STATUS": "dialeto",
-    "VITALIDADE": "Sem uso",
+    "VITALIDADE": "",
     "QTD_FAMILIAS": "",
-    "QTD_LINGUAS": "",
+    "QTD_LINGUAS": 0,
     "QTD_DIALETOS": "",
     "NOME": "Banawá",
-    "LATITUDE": -6.741,
+    "LATITUDE": "-6,741",
     "LONGITUDE": "-6.489.624",
     "GLOTTOLOG": "bana1307",
     "ESTADOS": "Amazonas",
@@ -103,15 +103,15 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": {}
+    "TXT_INTRO": ""
   },
   {
     "ID": 5,
     "LABEL": "Eastern Jamamadi",
     "STATUS": "dialeto",
-    "VITALIDADE": "Sem uso",
+    "VITALIDADE": "",
     "QTD_FAMILIAS": "",
-    "QTD_LINGUAS": "",
+    "QTD_LINGUAS": 0,
     "QTD_DIALETOS": "",
     "NOME": "Jamamadi Oriental",
     "LATITUDE": "",
@@ -124,15 +124,15 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": {}
+    "TXT_INTRO": ""
   },
   {
     "ID": 6,
     "LABEL": "Jarawara",
     "STATUS": "dialeto",
-    "VITALIDADE": "Sem uso",
+    "VITALIDADE": "",
     "QTD_FAMILIAS": "",
-    "QTD_LINGUAS": "",
+    "QTD_LINGUAS": 0,
     "QTD_DIALETOS": "",
     "NOME": "Jarawára",
     "LATITUDE": "",
@@ -145,13 +145,13 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": {}
+    "TXT_INTRO": ""
   },
   {
     "ID": 7,
     "LABEL": "Madiha",
-    "STATUS": "família",
-    "VITALIDADE": "Sem uso",
+    "STATUS": "ramo",
+    "VITALIDADE": "",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 2,
     "QTD_DIALETOS": 6,
@@ -166,7 +166,7 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": {}
+    "TXT_INTRO": ""
   },
   {
     "ID": 8,
@@ -174,11 +174,11 @@
     "STATUS": "língua",
     "VITALIDADE": "Mudando",
     "QTD_FAMILIAS": "",
-    "QTD_LINGUAS": "",
+    "QTD_LINGUAS": 1,
     "QTD_DIALETOS": "",
     "NOME": "Kulína",
-    "LATITUDE": -855.268,
-    "LONGITUDE": -706.648,
+    "LATITUDE": "-855,268",
+    "LONGITUDE": "-706,648",
     "GLOTTOLOG": "culi1244",
     "ESTADOS": "Acre",
     "USUARIO": "",
@@ -187,15 +187,15 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": {}
+    "TXT_INTRO": ""
   },
   {
     "ID": 9,
     "LABEL": "Juruá-Jutaí",
-    "STATUS": "dialeto",
-    "VITALIDADE": "Sem uso",
+    "STATUS": "*dialeto",
+    "VITALIDADE": "",
     "QTD_FAMILIAS": "",
-    "QTD_LINGUAS": "",
+    "QTD_LINGUAS": 0,
     "QTD_DIALETOS": "",
     "NOME": "Juruá-Jutaí",
     "LATITUDE": "",
@@ -208,15 +208,15 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": {}
+    "TXT_INTRO": ""
   },
   {
     "ID": 10,
     "LABEL": "Purus-Envira",
-    "STATUS": "dialeto",
-    "VITALIDADE": "Sem uso",
+    "STATUS": "*dialeto",
+    "VITALIDADE": "",
     "QTD_FAMILIAS": "",
-    "QTD_LINGUAS": "",
+    "QTD_LINGUAS": 0,
     "QTD_DIALETOS": "",
     "NOME": "Purus-Envira",
     "LATITUDE": "",
@@ -229,7 +229,7 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": {}
+    "TXT_INTRO": ""
   },
   {
     "ID": 11,
@@ -237,11 +237,11 @@
     "STATUS": "língua",
     "VITALIDADE": "Mudando",
     "QTD_FAMILIAS": "",
-    "QTD_LINGUAS": "",
+    "QTD_LINGUAS": 1,
     "QTD_DIALETOS": "",
     "NOME": "Deni",
-    "LATITUDE": -674.962,
-    "LONGITUDE": -675.029,
+    "LATITUDE": "-674,962",
+    "LONGITUDE": "-675,029",
     "GLOTTOLOG": "deni1241",
     "ESTADOS": "Amazonas",
     "USUARIO": "",
@@ -250,15 +250,15 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": {}
+    "TXT_INTRO": ""
   },
   {
     "ID": 12,
     "LABEL": "Nuclear Deni",
-    "STATUS": "dialeto",
-    "VITALIDADE": "Sem uso",
+    "STATUS": "*dialeto",
+    "VITALIDADE": "",
     "QTD_FAMILIAS": "",
-    "QTD_LINGUAS": "",
+    "QTD_LINGUAS": 0,
     "QTD_DIALETOS": "",
     "NOME": "Deni principal",
     "LATITUDE": "",
@@ -271,15 +271,15 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": {}
+    "TXT_INTRO": ""
   },
   {
     "ID": 13,
     "LABEL": "Cuniuá",
-    "STATUS": "dialeto",
-    "VITALIDADE": "Sem uso",
+    "STATUS": "*dialeto",
+    "VITALIDADE": "",
     "QTD_FAMILIAS": "",
-    "QTD_LINGUAS": "",
+    "QTD_LINGUAS": 0,
     "QTD_DIALETOS": "",
     "NOME": "Cuniuá",
     "LATITUDE": "",
@@ -292,15 +292,15 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": {}
+    "TXT_INTRO": ""
   },
   {
     "ID": 14,
     "LABEL": "Xeruã",
-    "STATUS": "dialeto",
-    "VITALIDADE": "Sem uso",
+    "STATUS": "*dialeto",
+    "VITALIDADE": "",
     "QTD_FAMILIAS": "",
-    "QTD_LINGUAS": "",
+    "QTD_LINGUAS": 0,
     "QTD_DIALETOS": "",
     "NOME": "Xeruã",
     "LATITUDE": "",
@@ -313,15 +313,15 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": {}
+    "TXT_INTRO": ""
   },
   {
     "ID": 15,
     "LABEL": "Western Jamamadi",
     "STATUS": "dialeto",
-    "VITALIDADE": "Sem uso",
+    "VITALIDADE": "",
     "QTD_FAMILIAS": "",
-    "QTD_LINGUAS": "",
+    "QTD_LINGUAS": 0,
     "QTD_DIALETOS": "",
     "NOME": "Jamamadi Ocidental",
     "LATITUDE": "",
@@ -334,7 +334,7 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": {}
+    "TXT_INTRO": ""
   },
   {
     "ID": 16,
@@ -342,11 +342,11 @@
     "STATUS": "língua",
     "VITALIDADE": "Mudando",
     "QTD_FAMILIAS": "",
-    "QTD_LINGUAS": "",
+    "QTD_LINGUAS": 1,
     "QTD_DIALETOS": "",
     "NOME": "Paumari",
-    "LATITUDE": -578.403,
-    "LONGITUDE": -642.803,
+    "LATITUDE": "-578,403",
+    "LONGITUDE": "-642,803",
     "GLOTTOLOG": "paum1247",
     "ESTADOS": "Amazonas",
     "USUARIO": "",
@@ -355,15 +355,15 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": {}
+    "TXT_INTRO": ""
   },
   {
     "ID": 17,
     "LABEL": "Ituxi Paumari",
-    "STATUS": "dialeto",
-    "VITALIDADE": "Sem uso",
+    "STATUS": "*dialeto",
+    "VITALIDADE": "",
     "QTD_FAMILIAS": "",
-    "QTD_LINGUAS": "",
+    "QTD_LINGUAS": 0,
     "QTD_DIALETOS": "",
     "NOME": "Paumari do Ituxi",
     "LATITUDE": "",
@@ -376,15 +376,15 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": {}
+    "TXT_INTRO": ""
   },
   {
     "ID": 18,
     "LABEL": "Purus Paumari",
-    "STATUS": "dialeto",
-    "VITALIDADE": "Sem uso",
+    "STATUS": "*dialeto",
+    "VITALIDADE": "",
     "QTD_FAMILIAS": "",
-    "QTD_LINGUAS": "",
+    "QTD_LINGUAS": 0,
     "QTD_DIALETOS": "",
     "NOME": "Paumari do Purus",
     "LATITUDE": "",
@@ -397,15 +397,15 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": {}
+    "TXT_INTRO": ""
   },
   {
     "ID": 19,
     "LABEL": "Tapauá Paumari",
-    "STATUS": "dialeto",
-    "VITALIDADE": "Sem uso",
+    "STATUS": "*dialeto",
+    "VITALIDADE": "",
     "QTD_FAMILIAS": "",
-    "QTD_LINGUAS": "",
+    "QTD_LINGUAS": 0,
     "QTD_DIALETOS": "",
     "NOME": "Paumari do Tapauá",
     "LATITUDE": "",
@@ -418,7 +418,7 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": {}
+    "TXT_INTRO": ""
   },
   {
     "ID": 20,
@@ -426,11 +426,11 @@
     "STATUS": "língua",
     "VITALIDADE": "Mudando",
     "QTD_FAMILIAS": "",
-    "QTD_LINGUAS": "",
+    "QTD_LINGUAS": 1,
     "QTD_DIALETOS": "",
     "NOME": "Zuruwahá",
-    "LATITUDE": -682.525,
-    "LONGITUDE": -663.146,
+    "LATITUDE": "-682,525",
+    "LONGITUDE": "-663,146",
     "GLOTTOLOG": "suru1263",
     "ESTADOS": "Amazonas",
     "USUARIO": "",
@@ -439,7 +439,7 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": {}
+    "TXT_INTRO": ""
   }
-]
+ ]
 }

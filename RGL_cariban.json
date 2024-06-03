@@ -1,5 +1,5 @@
 {
-  "Cariban":[
+  "Cariban": [
   {
     "ID": 0,
     "LABEL": "Cariban",
@@ -19,7 +19,7 @@
     "Y": 0,
     "Z": 0,
     "STATE": "",
-    "TXT_INTRO": "As línguas caribanas são uma família de línguas indígenas do nordeste da América do Sul . Eles estão espalhados pelo extremo norte da América do Sul, desde a foz do rio Amazonas até os Andes colombianos , e também são falados em pequenos bolsões do Brasil central. As línguas da família Cariban estão relativamente relacionadas. Existem cerca de três dúzias, mas a maioria é falada apenas por algumas centenas de pessoas."
+    "TXT_INTRO": "As línguas Caribe são uma das maiores famílias de línguas indígenas da América do Sul . Estão espalhadas pelo extremo norte da América do Sul, desde a foz do rio Amazonas até os Andes colombianos, e também são faladas em pequenos bolsões do Brasil central. Existiam no mínimo três dúzias delas, mas a maioria é falada apenas por algumas centenas de pessoas, ou menos, e quase a metade delas já não são mais faladas."
   },
   {
     "ID": 1,
@@ -2100,5 +2100,5 @@
     "STATE": "",
     "TXT_INTRO": ""
   }
-]
+ ]
 }

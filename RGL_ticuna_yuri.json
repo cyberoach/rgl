@@ -1,5 +1,5 @@
 {
-"Ticuna":[
+"Ticuna": [
   {
     "ID": 0,
     "LABEL": "Ticuna-Yuri",
@@ -8,8 +8,8 @@
     "VITALIDADE": "",
     "GLOTTOLOG": "ticu1244",
     "QTD_FAMILIAS": 0,
-    "QTD_LINGUAS": 1,
-    "QTD_DIALETOS": 1,
+    "QTD_LINGUAS": 2,
+    "QTD_DIALETOS": 0,
     "LATITUDE": "",
     "LONGITUDE": "",
     "ESTADOS": "",
@@ -19,7 +19,7 @@
     "Y": 0,
     "Z": 0,
     "STATE": "",
-    "TXT_INTRO": "As línguas nadahup ou macu-orientais são uma subdivisão da família macu. Nadahup é um acrónimo das línguas constituintes, que se falam no noroeste do Brasil e suleste da Colômbia."
+    "TXT_INTRO": "A língua Ticuna é a língua indígena com mais falantes no Brasil; são por volta de 40.000. Foi considerada uma língua isolada, até que se descobriu que o Juri, já não mais falado, é uma língua irmã do Ticuna."
   },
   {
     "ID": 1,
@@ -29,7 +29,7 @@
     "VITALIDADE": "Sem uso",
     "GLOTTOLOG": "juri1235",
     "QTD_FAMILIAS": 0,
-    "QTD_LINGUAS": 0,
+    "QTD_LINGUAS": 1,
     "QTD_DIALETOS": 0,
     "LATITUDE": "-1.358.881",
     "LONGITUDE": "-69.984.741",
@@ -50,10 +50,10 @@
     "VITALIDADE": "Ameaçada",
     "GLOTTOLOG": "ticu1245",
     "QTD_FAMILIAS": 0,
-    "QTD_LINGUAS": 0,
+    "QTD_LINGUAS": 1,
     "QTD_DIALETOS": 0,
-    "LATITUDE": -366.289,
-    "LONGITUDE": -698.723,
+    "LATITUDE": "-366,289",
+    "LONGITUDE": "-698,723",
     "ESTADOS": "",
     "USUARIO": "",
     "MIDIA": "",

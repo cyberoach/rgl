@@ -1,8 +1,8 @@
 {
-  "Guaicuru":[
+  "Guaicuru": [
   {
     "ID": 0,
-    "LABEL": "Guaicurú",
+    "LABEL": "Guaicuruan",
     "NOME": "Guaicurú",
     "STATUS": "tronco",
     "VITALIDADE": "",
@@ -13,13 +13,13 @@
     "LATITUDE": "-4,133",
     "LONGITUDE": "-49,948",
     "ESTADOS": "Pará",
-    "USUARIO": "10-jan.",
+    "USUARIO": "10/jan",
     "MIDIA": "XIY-20040408-CR-MX-cantos.wav",
     "X": "",
     "Y": "",
     "Z": "",
     "STATE": "",
-    "TXT_INTRO": "O termo guaicurus remete aos grupos indígenas cujas línguas pertencem à família linguística  Eram famosos por serem uma tribo guerreira que se utilizavam de cavalos para as caçadas e ataques. Migraram para o território brasileiro, na região dos estados de Mato Grosso do Sul e Goiás, fugindo da colonização na região do norte do Paraguai."
+    "TXT_INTRO": "O termo “Guaicuru” remete aos grupos indígenas cujas línguas pertencem a esta família linguística e que na sua maioria vivem ou viviam no chaco no norte da Argentina. Os Kadiwéu eram famosos por serem um povo guerreiro que se utilizava de cavalos para as caçadas e ataques. Possivelmente migraram para o território brasileiro, no Mato Grosso do Sul, fugindo da colonização na região do norte do Paraguai."
   },
   {
     "ID": 1,
@@ -273,5 +273,5 @@
     "STATE": "",
     "TXT_INTRO": ""
   }
-]
+ ]
 }

@@ -1,5 +1,5 @@
 {
-"Chiquitano":[
+"Chiquitano": [
   {
     "ID": 0,
     "LABEL": "Chiquitano",
@@ -19,7 +19,7 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": "A família lingüística Chiquito foi estudada por diversos autores e existem na Bolívia várias gramáticas dessa língua. Meétraux (1948), baseado em Hervás, afirma que o Chiquito é composto por quatro dialetos, a saber: o Tao, o Manasi o Peñoqui e Piñoco. No Brasil, ainda não há estudos lingüísticos realizados entre os Chiquitano que vivem deste lado da fronteira. Contudo, a partir de uma amostra de palavras que foram comparadas a vocábulos do Chiquitano na Bolívia, pode-se afirmar que se trata da mesma língua, possivelmente do dialeto Tao. No Brasil essa língua também é conhecida como língua ou linguará , ou anenho ."
+    "TXT_INTRO": "A mini-família linguística Chiquitano consiste básicamente da língua Chiquitano para qual existem na Bolívia várias gramáticas. Pelo menos uma das várias variedades locais desta língua é falada no Brasil, mas qaui ainda há poucos estudos. Apesar do nome, ao que tudo indica, o Chiquitano Migueleño não era uma variedade esta língua, mas uma outra língua aparentada. Hipóteses de agrupar estas duas línguas a outras famílias (por exemplo o Macro-Jê) ainda são muito especulativas."
   },
   {
     "ID": 1,
@@ -168,5 +168,5 @@
     "STATE": 0,
     "TXT_INTRO": ""
   }
-]
+ ]
 }

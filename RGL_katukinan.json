@@ -1,8 +1,8 @@
 {
-"Katukinan":[
+"Katukinan": [
   {
     "ID": 0,
-    "LABEL": "Fam. Katukina",
+    "LABEL": "Katukinan",
     "NOME": "Fam. Katukina",
     "STATUS": "tronco",
     "VITALIDADE": "",
@@ -19,7 +19,7 @@
     "Y": 0,
     "Z": 0,
     "STATE": "",
-    "TXT_INTRO": ""
+    "TXT_INTRO": "Esta mini-família consiste somente da língua Katukina, que tem várias variedades locais, e seu primo Katawixi, que já não é mais falado.  As duas línguas estão localizadas no suroeste do estado do Amazonas, uns 500km uma da outra."
   },
   {
     "ID": 1,

@@ -19,7 +19,7 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": "Pano-Tacanan ( também Pano-Takana, Pano-Takánan, Pano-Tacana, Páno-Takána) é uma proposta de família de línguas faladas no Peru, oeste do Brasil, Bolívia e norte do Paraguai."
+    "TXT_INTRO": "As muitas línguas da família Pano se falam o extremo oeste do Brasil, nos estados do Amazonas e Acre, e em regiões adjacentes do Peru e no norte da Bolívia. Recentemente se pôde comprovar seu parentesco com a família Tacana, que ainda tem algumas línguas faladas no nordeste da Bolívia."
   },
   {
     "ID": 1,
@@ -1830,7 +1830,7 @@
   {
     "ID": 87,
     "LABEL": "Baawaja",
-    "STATUS": "dialeto",
+    "STATUS": "*dialeto",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1851,7 +1851,7 @@
   {
     "ID": 88,
     "LABEL": "Sonene",
-    "STATUS": "dialeto",
+    "STATUS": "*dialeto",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -1956,8 +1956,8 @@
   {
     "ID": 93,
     "LABEL": "Reyesano",
-    "STATUS": "dialeto",
-    "VITALIDADE": "Quase sem uso",
+    "STATUS": "*dialeto",
+    "VITALIDADE": "",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
     "QTD_DIALETOS": 0,
@@ -1998,7 +1998,7 @@
   {
     "ID": 95,
     "LABEL": "Ixiameño",
-    "STATUS": "dialeto",
+    "STATUS": "*dialeto",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
@@ -2019,7 +2019,7 @@
   {
     "ID": 96,
     "LABEL": "Tumpaseño",
-    "STATUS": "dialeto",
+    "STATUS": "*dialeto",
     "VITALIDADE": "",
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
