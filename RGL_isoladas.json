@@ -1,14 +1,14 @@
 {
-"Isoladas": [
+"Isoladas":[
   {
-    "ID": 18,
-    "LABEL": "Mato Grosso Arára",
-    "STATUS": "língua",
-    "VITALIDADE": "Sem uso",
-    "QTD_FAMILIAS": 0,
-    "QTD_LINGUAS": 1,
-    "QTD_DIALETOS": 0,
-    "NOME": "Mato Grosso Arára",
+    "ID": 0,
+    "LABEL": "LingsIsol",
+    "STATUS": "*tronco",
+    "VITALIDADE": "",
+    "QTD_FAMILIAS": "",
+    "QTD_LINGUAS": 18,
+    "QTD_DIALETOS": "",
+    "NOME": "Línguas Isoladas",
     "LATITUDE": 0,
     "LONGITUDE": 0,
     "GLOTTOLOG": "",
@@ -19,7 +19,7 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": ""
+    "TXT_INTRO": "Línguas isoladas são línguas que não tem nenhuma “irmã”, nem mesmo uma “prima”.  Se há relações de parentescos com outras línguas ou famílias, estas relações já se perderam ao longo de milênios. Talvez houve outras línguas aparentadas que se estinguiram sem nós tivermos notícias delas.  O Brasil teve mais línguas isoladas do que qualquer outro país, mas mais do que a metade já não são mais faladas."
   },
   {
     "ID": 1,
@@ -379,25 +379,25 @@
     "TXT_INTRO": ""
   },
   {
-    "ID": 0,
-    "LABEL": "",
-    "STATUS": "",
-    "VITALIDADE": "Línguas Isoladas",
-    "QTD_FAMILIAS": "",
-    "QTD_LINGUAS": "",
-    "QTD_DIALETOS": "",
-    "NOME": "",
-    "LATITUDE": "",
-    "LONGITUDE": "",
+    "ID": 18,
+    "LABEL": "Mato Grosso Arára",
+    "STATUS": "língua",
+    "VITALIDADE": "Sem uso",
+    "QTD_FAMILIAS": 0,
+    "QTD_LINGUAS": 1,
+    "QTD_DIALETOS": 0,
+    "NOME": "Mato Grosso Arára",
+    "LATITUDE": 0,
+    "LONGITUDE": 0,
     "GLOTTOLOG": "",
     "ESTADOS": "",
     "USUARIO": "",
     "MIDIA": "",
-    "X": "",
-    "Y": "",
-    "Z": "",
-    "STATE": "",
-    "TXT_INTRO": "Línguas isoladas são línguas que não tem nenhuma “irmã”, nem mesmo uma “prima”.  Se há relações de parentescos com outras línguas ou famílias, estas relações já se perderam ao longo de milênios. Talvez houve outras línguas aparentadas que se estinguiram sem que nós tivéssemos algum registro delas.  O Brasil tem (ou teve, várias já se falam mais) 18 línguas isoladas, mais do que qualquer outro país do mundo."
+    "X": 0,
+    "Y": 0,
+    "Z": 0,
+    "STATE": 0,
+    "TXT_INTRO": ""
   }
  ]
 }
