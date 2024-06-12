@@ -1,5 +1,5 @@
 {
-"Tupi":  [
+"Tupi": [
   {
     "ID": 0,
     "LABEL": "Tupian",
@@ -19,7 +19,7 @@
     "Y": 0,
     "Z": 0,
     "STATE": "https://drive.google.com/file/d/1c9TqWowhSx3FHRYHopmxR1WzZe3E7TTs/view?usp=sharing",
-    "TXT_INTRO": "O 'tronco' Tupi é a maior e melhor conhecida família linguística do Brasil. Uma das suas sub-famílias se chama Tupi-Guarani, que tem mais que 40 línguas. Entre as línguas mais conhecidas desta sub-família estão o Tupi Antigo, considerado a 'língua indígena clássica do Brasil', e o Nheengatu, também conhecido como Tupi moderno e ainda falado atualmente na Amazônia, ao lado do Guaraní, a língua nacional do Paraguay. Além da família Tupi-Guarani, há outras sub-famílias, a maioria delas faladas em Rondônia."
+    "TXT_INTRO": "O 'tronco' Tupi é a maior e melhor conhecida família linguística do Brasil. Uma das suas sub-famílias se chama Tupi-Guarani, que tem mais de 40 línguas. Entre as línguas mais conhecidas desta sub-família estão o Tupi Antigo, considerado a 'língua indígena clássica do Brasil', o Nheengatu, também conhecido como Tupi moderno e ainda falado atualmente na Amazônia, e o Guaraní, a língua nacional do Paraguay. Além da família Tupi-Guarani, há outras sub-famílias, a maioria das quais é falada em Rondônia."
   },
   {
     "ID": 1,
@@ -87,7 +87,7 @@
   {
     "ID": 4,
     "LABEL": "Kepkiriwát",
-    "STATUS": "*língua",
+    "STATUS": "língua",
     "VITALIDADE": "Sem uso",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 1,
@@ -2776,7 +2776,7 @@
     "ID": 132,
     "LABEL": "Gavião Do Jiparaná",
     "STATUS": "língua",
-    "VITALIDADE": "",
+    "VITALIDADE": "Ameaçada",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 1,
     "QTD_DIALETOS": 0,
@@ -3154,7 +3154,7 @@
     "ID": 150,
     "LABEL": "Akuntsu",
     "STATUS": "língua",
-    "VITALIDADE": "Quase sem uso",
+    "VITALIDADE": "Ameaçada",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 1,
     "QTD_DIALETOS": 0,
@@ -3175,11 +3175,11 @@
     "ID": 151,
     "LABEL": "Mekens",
     "STATUS": "língua",
-    "VITALIDADE": "Quase sem uso",
+    "VITALIDADE": "Ameaçada",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 1,
     "QTD_DIALETOS": 0,
-    "NOME": "Sakurabiat (Mekens)",
+    "NOME": "Sakurabiat (Sakyrabiar)",
     "LATITUDE": "-13,054",
     "LONGITUDE": "-620,927",
     "GLOTTOLOG": "saki1248",
@@ -3242,7 +3242,7 @@
     "QTD_FAMILIAS": 0,
     "QTD_LINGUAS": 0,
     "QTD_DIALETOS": 0,
-    "NOME": "Siokweriat",
+    "NOME": "Siokweriat ou Kampé",
     "LATITUDE": "",
     "LONGITUDE": "",
     "GLOTTOLOG": "siok1234",
@@ -3305,7 +3305,7 @@
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 1,
     "QTD_DIALETOS": 0,
-    "NOME": "Ajuru (Wayoró)",
+    "NOME": "Wayoró",
     "LATITUDE": "-126,945",
     "LONGITUDE": "-613,064",
     "GLOTTOLOG": "wayo1238",
@@ -3469,7 +3469,7 @@
     "ID": 165,
     "LABEL": "Xipaya",
     "STATUS": "língua",
-    "VITALIDADE": "Sem uso",
+    "VITALIDADE": "Quase sem uso",
     "QTD_FAMILIAS": 1,
     "QTD_LINGUAS": 1,
     "QTD_DIALETOS": 0,
@@ -3486,5 +3486,5 @@
     "STATE": "",
     "TXT_INTRO": ""
   }
-]
+ ]
 }
