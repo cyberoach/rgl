@@ -1,9 +1,9 @@
-﻿{
-"Isoladas": [
+{
+"Isoladas":[
   {
     "ID": 0,
     "LABEL": "LingsIsol",
-    "STATUS": "tronco",
+    "STATUS": "*tronco",
     "VITALIDADE": "",
     "QTD_FAMILIAS": "",
     "QTD_LINGUAS": 18,
@@ -19,7 +19,7 @@
     "Y": 0,
     "Z": 0,
     "STATE": 0,
-    "TXT_INTRO": "Línguas isoladas são línguas para as quais não se conhece nenhuma outra língua relacionada, ou seja, não tem nenhuma língua 'irmã'.  Se há relações de parentescos com outras línguas ou famílias, estas relações já se perderam ao longo de milênios. Talvez houve outras línguas aparentadas que se extinguiram sem que nós tivéssemos notícias delas.  O Brasil possuia mais línguas isoladas do que qualquer outro país do mundo, mas mais do que a metade já não são mais faladas atualmente."
+    "TXT_INTRO": "Línguas isoladas são línguas que não tem nenhuma “irmã”, nem mesmo uma “prima”.  Se há relações de parentescos com outras línguas ou famílias, estas relações já se perderam ao longo de milênios. Talvez houve outras línguas aparentadas que se estinguiram sem nós tivermos notícias delas.  O Brasil teve mais línguas isoladas do que qualquer outro país, mas mais do que a metade já não são mais faladas."
   },
   {
     "ID": 1,
